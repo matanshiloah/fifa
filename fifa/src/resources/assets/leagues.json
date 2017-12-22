@@ -1,0 +1,190 @@
+{
+    "last_update": "30-Sep-2017 11:57",
+    "leagues": {
+        "1": {
+            "id": 1,
+            "country": 1,
+            "name": "Primera Division"
+        },
+        "2": {
+            "id": 2,
+            "country": 2,
+            "name": "Hyundai A-League"
+        },
+        "3": {
+            "id": 3,
+            "country": 3,
+            "name": "O. Bundesliga"
+        },
+        "4": {
+            "id": 4,
+            "country": 4,
+            "name": "Pro League"
+        },
+        "5": {
+            "id": 5,
+            "country": 5,
+            "name": "Liga do Brasil"
+        },
+        "6": {
+            "id": 6,
+            "country": 6,
+            "name": "Camp. Scotiabank"
+        },
+        "7": {
+            "id": 7,
+            "country": 7,
+            "name": "Liga Dimayor"
+        },
+        "8": {
+            "id": 8,
+            "country": 8,
+            "name": "Alka Superliga"
+        },
+        "9": {
+            "id": 9,
+            "country": 9,
+            "name": "Premier League"
+        },
+        "10": {
+            "id": 10,
+            "country": 9,
+            "name": "EFL Championship"
+        },
+        "11": {
+            "id": 11,
+            "country": 9,
+            "name": "EFL League One"
+        },
+        "12": {
+            "id": 12,
+            "country": 9,
+            "name": "EFL League Two"
+        },
+        "13": {
+            "id": 13,
+            "country": 10,
+            "name": "Ligue 1 Conforama"
+        },
+        "14": {
+            "id": 14,
+            "country": 10,
+            "name": "Domino's Ligue 2"
+        },
+        "15": {
+            "id": 15,
+            "country": 11,
+            "name": "Bundesliga"
+        },
+        "16": {
+            "id": 16,
+            "country": 11,
+            "name": "Bundesliga 2"
+        },
+        "37": {
+            "id": 37,
+            "country": 11,
+            "name": "3. Liga"
+        },
+        "17": {
+            "id": 17,
+            "country": 12,
+            "name": "Calcio A"
+        },
+        "18": {
+            "id": 18,
+            "country": 12,
+            "name": "Calcio B"
+        },
+        "19": {
+            "id": 19,
+            "country": 13,
+            "name": "Meiji Yasuda J1"
+        },
+        "20": {
+            "id": 20,
+            "country": 14,
+            "name": "K League Classic"
+        },
+        "21": {
+            "id": 21,
+            "country": 15,
+            "name": "Liga Bancomer MX"
+        },
+        "22": {
+            "id": 22,
+            "country": 16,
+            "name": "Eredivisie"
+        },
+        "23": {
+            "id": 23,
+            "country": 17,
+            "name": "Eliteserien"
+        },
+        "24": {
+            "id": 24,
+            "country": 18,
+            "name": "Ekstraklasa"
+        },
+        "25": {
+            "id": 25,
+            "country": 19,
+            "name": "Liga NOS"
+        },
+        "26": {
+            "id": 26,
+            "country": 20,
+            "name": "SSE Airtricity Lge"
+        },
+        "27": {
+            "id": 27,
+            "country": 21,
+            "name": "Rest of World"
+        },
+        "28": {
+            "id": 28,
+            "country": 22,
+            "name": "Russian League"
+        },
+        "29": {
+            "id": 29,
+            "country": 23,
+            "name": "Dawry Jameel"
+        },
+        "30": {
+            "id": 30,
+            "country": 24,
+            "name": "Scottish Prem"
+        },
+        "31": {
+            "id": 31,
+            "country": 25,
+            "name": "LaLiga Santander"
+        },
+        "32": {
+            "id": 32,
+            "country": 25,
+            "name": "LaLiga 1 | 2 | 3"
+        },
+        "33": {
+            "id": 33,
+            "country": 26,
+            "name": "Allsvenskan"
+        },
+        "34": {
+            "id": 34,
+            "country": 27,
+            "name": "RSL"
+        },
+        "35": {
+            "id": 35,
+            "country": 28,
+            "name": "Super Lig"
+        },
+        "36": {
+            "id": 36,
+            "country": 29,
+            "name": "MLS"
+        }
+    }
+}

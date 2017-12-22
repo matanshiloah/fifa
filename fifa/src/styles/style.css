@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    margin-left: 10px;
+    width: 800px;
+}
+
+/* App */
+    .app--header {
+        font-family: arial;
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+
+/* Input */
+
+.input {
+    margin-bottom: 10px;
+}
+
+    .input--player-score {
+        position: absolute;
+        left: 195px;
+    }
+
+    .input--player1-score {
+        margin-top: 10px;
+    }
+
+    .input--label {
+        margin-right: 20px;
+        vertical-align: top;
+    }
+
+    .input--type-select {
+        width: 50px;
+        text-indent: 8px;
+        cursor: pointer;
+    }
+
+    .input--type-checkbox-boxesContainer, .input--type-radio-radiosContainer {
+        margin-right: 7px;
+    }
+
+    .input--type-checkbox-singleBox, .input--type-radio-singleRadio {
+        margin-right: 5px;
+        cursor: pointer;
+    }
+
+    .input--type-number {
+        width: 100px;
+    }
+
+/* Settings */
+
+    .settings--submit {
+        margin-top: 20px;
+        cursor: pointer;
+        width: 150px;
+    }
+
+/* Games */
+
+    .games--details {
+        margin-bottom: 20px;
+    }
+
+        .games--details-player1, .games--details-player2, .games--details-resultsCounter {
+            margin-bottom: 10px;
+        }
+
+        .games--details-submittedResults {
+            margin-left: 10px;
+        }
+
+        .games--details-player1points, .games--details-player2points {
+            margin-left: 3px;
+        }
+
+    .games--actions {
+        position: absolute;
+        top: 25px;
+    }
+
+        .games--actions-redraw {
+            left: 480px;
+        }
+
+        .games--actions-back {
+            left: 620px;
+        }
+
+            .games--actions-redraw-btn, .games--actions-back-btn {
+                cursor: pointer;
+                width: 130px;
+            }
+
+/* Game */
+
+.game {
+    width: 750px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+    .game--title {
+        margin-bottom: 17px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .game--teams {
+        margin-left: 40px;
+        margin-bottom: 10px;
+    }
+
+        .game--teams-divider {
+            margin: auto 40px;
+        }
+
+    .game--details {
+        margin: 15px 40px;
+    }
+
+        .game--details-home-team {
+            margin-right: 80px;
+        }
+
+        .game--details-submit {
+            margin-top: 15px;
+            cursor: pointer;
+        }
+
+/* Team */
+
+.team {
+    margin-bottom: 20px;
+    height: 75px;
+}
+
+    .team--logo {
+        width: 50px;
+        height: 50px;
+    }
+
+        .team--logo-national-team {
+            border: 1px solid black;
+            border-radius: 100%;
+        }
+
+    .team--details {
+        margin-left: 20px;
+        bottom: 15px;
+        position: relative;
+    }
+
+        .team--details-league {
+            width: 12px;
+            height: 12px;
+            margin-left: 10px;
+            border-radius: 100%;
+            border: 1px solid black;
+        }
+
+/* Stars */
+
+.stars {
+    margin-left: 20px;
+}
+
+    .stars--img {
+        width: 12px;
+        height: 12px;
+    }
+
+    .stars--img-half {
+        clip: rect(0px, 6px, 12px, 0px);
+        position: absolute;
+        bottom: 4px;
+    }
+
+/* FinalResult */
+
+    .finalResult--winnerAnnouncment {
+        font-size: 16px;
+    }
+
+    .finalResult--continue {
+        margin-top: 10px;
+    }
+
+        .finalResult--continue-btn {
+            cursor: pointer;
+        }

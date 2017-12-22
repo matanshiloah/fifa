@@ -1,0 +1,577 @@
+{
+    "last_update": "30-Sep-2017 11:57",
+    "countries": {
+        "1": {
+            "id": 1,
+            "name": "Argentina",
+            "national_teams": {
+                "men": {
+                    "id": 304,
+                    "stars": 5
+                }
+            }
+        },
+        "2": {
+            "id": 2,
+            "name": "Australia",
+            "national_teams": {
+                "men": {
+                    "id": 304,
+                    "stars": 3.5
+                },
+                "women": {
+                    "id": 680,
+                    "stars": 4
+                }
+            }
+        },
+        "3": {
+            "id": 3,
+            "name": "Austria",
+            "national_teams": {
+                "men": {
+                    "id": 305,
+                    "stars": 4
+                }
+            }
+        },
+        "4": {
+            "id": 4,
+            "name": "Belgium",
+            "national_teams": {
+                "men": {
+                    "id": 306,
+                    "stars": 5
+                }
+            }
+        },
+        "30": {
+            "id": 30,
+            "name": "Bolivia",
+            "national_teams": {
+                "men": {
+                    "id": 328,
+                    "stars": 2.5
+                }
+            }
+        },
+        "5": {
+            "id": 5,
+            "name": "Brazil",
+            "national_teams": {
+                "men": {
+                    "id": 307,
+                    "stars": 5
+                },
+                "women": {
+                    "id": 681,
+                    "stars": 4.5
+                }
+            }
+        },
+        "31": {
+            "id": 31,
+            "name": "Bulgaria",
+            "national_teams": {
+                "men": {
+                    "id": 329,
+                    "stars": 3
+                }
+            }
+        },
+        "6": {
+            "id": 6,
+            "name": "Chile",
+            "national_teams": {
+                "men": {
+                    "id": 308,
+                    "stars": 4.5
+                }
+            }
+        },
+        "32": {
+            "id": 32,
+            "name": "Cameroon",
+            "national_teams": {
+                "men": {
+                    "id": 330,
+                    "stars": 3
+                }
+            }
+        },
+        "33": {
+            "id": 33,
+            "name": "Canada",
+            "national_teams": {
+                "men": {
+                    "id": 331,
+                    "stars": 2.5
+                },
+                "women": {
+                    "id": 692,
+                    "stars": 4
+                }
+            }
+        },
+        "34": {
+            "id": 34,
+            "name": "China PR",
+            "national_teams": {
+                "men": {
+                    "id": 332,
+                    "stars": 3
+                },
+                "women": {
+                    "id": 693,
+                    "stars": 4
+                }
+            }
+        },
+        "7": {
+            "id": 7,
+            "name": "Colombia",
+            "national_teams": {
+                "men": {
+                    "id": 309,
+                    "stars": 4
+                }
+            }
+        },
+        "35": {
+            "id": 35,
+            "name": "Cote d'Ivoire",
+            "national_teams": {
+                "men": {
+                    "id": 333,
+                    "stars": 4
+                }
+            }
+        },
+        "36": {
+            "id": 36,
+            "name": "Czech Republic",
+            "national_teams": {
+                "men": {
+                    "id": 334,
+                    "stars": 4
+                }
+            }
+        },
+        "8": {
+            "id": 8,
+            "name": "Denmark",
+            "national_teams": {
+                "men": {
+                    "id": 310,
+                    "stars": 4
+                }
+            }
+        },
+        "37": {
+            "id": 37,
+            "name": "Ecuador",
+            "national_teams": {
+                "men": {
+                    "id": 335,
+                    "stars": 3.5
+                }
+            }
+        },
+        "38": {
+            "id": 38,
+            "name": "Egypt",
+            "national_teams": {
+                "men": {
+                    "id": 336,
+                    "stars": 3.5
+                }
+            }
+        },
+        "9": {
+            "id": 9,
+            "name": "England",
+            "national_teams": {
+                "men": {
+                    "id": 311,
+                    "stars": 4.5
+                },
+                "women": {
+                    "id": 682,
+                    "stars": 4.5
+                }
+            }
+        },
+        "39": {
+            "id": 39,
+            "name": "Finland",
+            "national_teams": {
+                "men": {
+                    "id": 337,
+                    "stars": 3.5
+                }
+            }
+        },
+        "10": {
+            "id": 10,
+            "name": "France",
+            "national_teams": {
+                "men": {
+                    "id": 312,
+                    "stars": 5
+                },
+                "women": {
+                    "id": 683,
+                    "stars": 4.5
+                }
+            }
+        },
+        "11": {
+            "id": 11,
+            "name": "Germany",
+            "national_teams": {
+                "men": {
+                    "id": 313,
+                    "stars": 5
+                },
+                "women": {
+                    "id": 684,
+                    "stars": 4.5
+                }
+            }
+        },
+        "40": {
+            "id": 40,
+            "name": "Greece",
+            "national_teams": {
+                "men": {
+                    "id": 338,
+                    "stars": 4
+                }
+            }
+        },
+        "41": {
+            "id": 41,
+            "name": "Hungary",
+            "national_teams": {
+                "men": {
+                    "id": 339,
+                    "stars": 3.5
+                }
+            }
+        },
+        "52": {
+            "id": 52,
+            "name": "Iceland",
+            "national_teams": {
+                "men": {
+                    "id": 694,
+                    "stars": 3.5
+                }
+            }
+        },
+        "42": {
+            "id": 42,
+            "name": "India",
+            "national_teams": {
+                "men": {
+                    "id": 340,
+                    "stars": 1
+                }
+            }
+        },
+        "12": {
+            "id": 12,
+            "name": "Italy",
+            "national_teams": {
+                "men": {
+                    "id": 314,
+                    "stars": 5
+                },
+                "women": {
+                    "id": 685,
+                    "stars": 3.5
+                }
+            }
+        },
+        "13": {
+            "id": 13,
+            "name": "Japan"
+        },
+        "14": {
+            "id": 14,
+            "name": "Korea Republic"
+        },
+        "15": {
+            "id": 15,
+            "name": "Mexico",
+            "national_teams": {
+                "men": {
+                    "id": 315,
+                    "stars": 4
+                },
+                "women": {
+                    "id": 686,
+                    "stars": 3.5
+                }
+            }
+        },
+        "16": {
+            "id": 16,
+            "name": "Netherlands",
+            "national_teams": {
+                "men": {
+                    "id": 316,
+                    "stars": 4.5
+                },
+                "women": {
+                    "id": 687,
+                    "stars": 4
+                }
+            }
+        },
+        "53": {
+            "id": 53,
+            "name": "New Zealand",
+            "national_teams": {
+                "men": {
+                    "id": 695,
+                    "stars": 2.5
+                },
+                "women": {
+                    "id": 696,
+                    "stars": 3.5
+                }
+            }
+        },
+        "43": {
+            "id": 43,
+            "name": "Northern Ireland",
+            "national_teams": {
+                "men": {
+                    "id": 341,
+                    "stars": 3.5
+                }
+            }
+        },
+        "17": {
+            "id": 17,
+            "name": "Norway",
+            "national_teams": {
+                "men": {
+                    "id": 317,
+                    "stars": 3.5
+                },
+                "women": {
+                    "id": 688,
+                    "stars": 3.5
+                }
+            }
+        },
+        "44": {
+            "id": 44,
+            "name": "Paraguay",
+            "national_teams": {
+                "men": {
+                    "id": 342,
+                    "stars": 3.5
+                }
+            }
+        },
+        "45": {
+            "id": 45,
+            "name": "Peru",
+            "national_teams": {
+                "men": {
+                    "id": 343,
+                    "stars": 3.5
+                }
+            }
+        },
+        "18": {
+            "id": 18,
+            "name": "Poland",
+            "national_teams": {
+                "men": {
+                    "id": 318,
+                    "stars": 4
+                }
+            }
+        },
+        "19": {
+            "id": 19,
+            "name": "Portugal",
+            "national_teams": {
+                "men": {
+                    "id": 319,
+                    "stars": 4.5
+                }
+            }
+        },
+        "20": {
+            "id": 20,
+            "name": "Republic of Ireland",
+            "national_teams": {
+                "men": {
+                    "id": 320,
+                    "stars": 4
+                }
+            }
+        },
+        "21": {
+            "id": 21,
+            "name": "Rest of World"
+        },
+        "46": {
+            "id": 46,
+            "name": "Romania",
+            "national_teams": {
+                "men": {
+                    "id": 344,
+                    "stars": 3.5
+                }
+            }
+        },
+        "22": {
+            "id": 22,
+            "name": "Russia",
+            "national_teams": {
+                "men": {
+                    "id": 321,
+                    "stars": 4
+                }
+            }
+        },
+        "23": {
+            "id": 23,
+            "name": "Saudi Arabia",
+            "national_teams":{
+                "men": {
+                    "id": 696,
+                    "stars": 3.5
+                }
+            }
+        },
+        "24": {
+            "id": 24,
+            "name": "Scotland",
+            "national_teams": {
+                "men": {
+                    "id": 322,
+                    "stars": 4
+                }
+            }
+        },
+        "47": {
+            "id": 47,
+            "name": "Slovenia",
+            "national_teams": {
+                "men": {
+                    "id": 346,
+                    "stars": 3.5
+                }
+            }
+        },
+        "48": {
+            "id": 48,
+            "name": "South Africa",
+            "national_teams": {
+                "men": {
+                    "id": 347,
+                    "stars": 3.5
+                }
+            }
+        },
+        "25": {
+            "id": 25,
+            "name": "Spain",
+            "national_teams": {
+                "men": {
+                    "id": 323,
+                    "stars": 5
+                },
+                "women": {
+                    "id": 689,
+                    "stars": 4
+                }
+            }
+        },
+        "26": {
+            "id": 26,
+            "name": "Sweden",
+            "national_teams": {
+                "men": {
+                    "id": 324,
+                    "stars": 4
+                },
+                "women": {
+                    "id": 690,
+                    "stars": 4
+                }
+            }
+        },
+        "27": {
+            "id": 27,
+            "name": "Switzerland",
+            "national_teams": {
+                "men": {
+                    "id": 325,
+                    "stars": 4
+                }
+            }
+        },
+        "28": {
+            "id": 28,
+            "name": "Turkey",
+            "national_teams": {
+                "men": {
+                    "id": 326,
+                    "stars": 4
+                }
+            }
+        },
+        "29": {
+            "id": 29,
+            "name": "United States",
+            "national_teams": {
+                "men": {
+                    "id": 327,
+                    "stars": 4
+                },
+                "women": {
+                    "id": 691,
+                    "stars": 4.5
+                }
+            }
+        },
+        "49": {
+            "id": 49,
+            "name": "Uruguay",
+            "national_teams": {
+                "men": {
+                    "id": 348,
+                    "stars": 4.5
+                }
+            }
+        },
+        "50": {
+            "id": 50,
+            "name": "Venezuela",
+            "national_teams": {
+                "men": {
+                    "id": 349,
+                    "stars": 3.5
+                }
+            }
+        },
+        "51": {
+            "id": 51,
+            "name": "Wales",
+            "national_teams": {
+                "men": {
+                    "id": 350,
+                    "stars": 4
+                }
+            }
+        }
+    }
+}
