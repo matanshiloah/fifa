@@ -4,7 +4,7 @@
         "1": {
             "id": 1,
             "country": 1,
-            "name": "Primera Division"
+            "name": "SAF"
         },
         "2": {
             "id": 2,
@@ -31,6 +31,11 @@
             "country": 6,
             "name": "Camp. Scotiabank"
         },
+        "38": {
+            "id": 38,
+            "country": 34,
+            "name": "CSL"
+        },
         "7": {
             "id": 7,
             "country": 7,
@@ -39,7 +44,7 @@
         "8": {
             "id": 8,
             "country": 8,
-            "name": "Alka Superliga"
+            "name": "Superliga"
         },
         "9": {
             "id": 9,
@@ -89,7 +94,7 @@
         "17": {
             "id": 17,
             "country": 12,
-            "name": "Calcio A"
+            "name": "Serie A TIM"
         },
         "18": {
             "id": 18,
@@ -104,7 +109,7 @@
         "20": {
             "id": 20,
             "country": 14,
-            "name": "K League Classic"
+            "name": "K-League 1"
         },
         "21": {
             "id": 21,
@@ -144,7 +149,8 @@
         "28": {
             "id": 28,
             "country": 22,
-            "name": "Russian League"
+            "name": "Russian League",
+            "deprecated": true
         },
         "29": {
             "id": 29,

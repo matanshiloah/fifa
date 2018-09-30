@@ -1,10 +1,12 @@
 let FifaData = require('./fifaData');
 let worldXITeamId = 756;
+let adidasAllStarTeamId = 831;
+let mlsAllStarsTeamId = 832;
 
 module.exports = {
-    filterTeams: (teamsType, teamsLevel, allowWorldXI) => {
+    filterTeams: (teamsType, teamsLevel, allowAllStars) => {
         let fifaData = new FifaData();
-        let key = `${ JSON.stringify(teamsType) }_${ JSON.stringify(teamsLevel) }_${ allowWorldXI }`;
+        let key = `${ JSON.stringify(teamsType) }_${ JSON.stringify(teamsLevel) }_${ allowAllStars }`;
         let teams = fifaData.getFromCache(key);
 
         if (teams !== null) {
@@ -22,9 +24,9 @@ module.exports = {
             }
         }
 
-        if (allowWorldXI === 'no') {
+        if (allowAllStars === 'no') {
             teams = teams.filter(team => {
-                return team.id !== worldXITeamId;
+                return (team.id !== worldXITeamId && team.id !== adidasAllStarTeamId && team.id !== mlsAllStarsTeamId);
             });
         }
 

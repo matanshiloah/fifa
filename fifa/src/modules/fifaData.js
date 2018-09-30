@@ -44,7 +44,13 @@ module.exports = class FifaData {
             if (country.hasOwnProperty('national_teams')) {
                 nationalTeamTypes.map(type => {
                     if (country.national_teams.hasOwnProperty(type)) {
-                        let stars = country.national_teams[type].stars;
+                        var nationalTeam = country.national_teams[type];
+
+                        if (nationalTeam.hasOwnProperty('depracted') && nationalTeam.deprecated === true) {
+                            return false;
+                        }
+
+                        let stars = nationalTeam.stars;
 
                         this.teams[type][stars] = this.teams[type][stars] || [];
                         this.teams[type][stars].push(this.buildNationalTeam(country, flag, type));

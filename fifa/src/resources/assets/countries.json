@@ -7,7 +7,7 @@
             "national_teams": {
                 "men": {
                     "id": 304,
-                    "stars": 5
+                    "stars": 4.5
                 }
             }
         },
@@ -21,7 +21,7 @@
                 },
                 "women": {
                     "id": 680,
-                    "stars": 4
+                    "stars": 4.5
                 }
             }
         },
@@ -61,7 +61,7 @@
             "national_teams": {
                 "men": {
                     "id": 307,
-                    "stars": 5
+                    "stars": 4.5
                 },
                 "women": {
                     "id": 681,
@@ -75,17 +75,7 @@
             "national_teams": {
                 "men": {
                     "id": 329,
-                    "stars": 3
-                }
-            }
-        },
-        "6": {
-            "id": 6,
-            "name": "Chile",
-            "national_teams": {
-                "men": {
-                    "id": 308,
-                    "stars": 4.5
+                    "stars": 2.5
                 }
             }
         },
@@ -95,7 +85,7 @@
             "national_teams": {
                 "men": {
                     "id": 330,
-                    "stars": 3
+                    "stars": 3.5
                 }
             }
         },
@@ -105,10 +95,20 @@
             "national_teams": {
                 "men": {
                     "id": 331,
-                    "stars": 2.5
+                    "stars": 3
                 },
                 "women": {
                     "id": 692,
+                    "stars": 4.5
+                }
+            }
+        },
+        "6": {
+            "id": 6,
+            "name": "Chile",
+            "national_teams": {
+                "men": {
+                    "id": 308,
                     "stars": 4
                 }
             }
@@ -119,11 +119,13 @@
             "national_teams": {
                 "men": {
                     "id": 332,
-                    "stars": 3
+                    "stars": 3,
+                    "deprecated": true
                 },
                 "women": {
                     "id": 693,
-                    "stars": 4
+                    "stars": 4,
+                    "deprecated": true
                 }
             }
         },
@@ -133,7 +135,7 @@
             "national_teams": {
                 "men": {
                     "id": 309,
-                    "stars": 4
+                    "stars": 4.5
                 }
             }
         },
@@ -207,7 +209,7 @@
             "national_teams": {
                 "men": {
                     "id": 337,
-                    "stars": 3.5
+                    "stars": 3
                 }
             }
         },
@@ -279,6 +281,16 @@
                 }
             }
         },
+        "20": {
+            "id": 20,
+            "name": "Ireland",
+            "national_teams": {
+                "men": {
+                    "id": 320,
+                    "stars": 3.5
+                }
+            }
+        },
         "12": {
             "id": 12,
             "name": "Italy",
@@ -289,7 +301,7 @@
                 },
                 "women": {
                     "id": 685,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -325,7 +337,7 @@
                 },
                 "women": {
                     "id": 687,
-                    "stars": 4
+                    "stars": 4.5
                 }
             }
         },
@@ -339,7 +351,7 @@
                 },
                 "women": {
                     "id": 696,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -363,7 +375,7 @@
                 },
                 "women": {
                     "id": 688,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -407,16 +419,6 @@
                 }
             }
         },
-        "20": {
-            "id": 20,
-            "name": "Republic of Ireland",
-            "national_teams": {
-                "men": {
-                    "id": 320,
-                    "stars": 4
-                }
-            }
-        },
         "21": {
             "id": 21,
             "name": "Rest of World"
@@ -447,7 +449,8 @@
             "national_teams":{
                 "men": {
                     "id": 696,
-                    "stars": 3.5
+                    "stars": 3.5,
+                    "deprecated": true
                 }
             }
         },
@@ -467,7 +470,7 @@
             "national_teams": {
                 "men": {
                     "id": 346,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -505,7 +508,7 @@
                 },
                 "women": {
                     "id": 690,
-                    "stars": 4
+                    "stars": 4.5
                 }
             }
         },
@@ -535,11 +538,11 @@
             "national_teams": {
                 "men": {
                     "id": 327,
-                    "stars": 4
+                    "stars": 3.5
                 },
                 "women": {
                     "id": 691,
-                    "stars": 4.5
+                    "stars": 5
                 }
             }
         },

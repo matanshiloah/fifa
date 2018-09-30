@@ -23,8 +23,8 @@ export default class Games extends Component {
         this.player2 = new Player(player2);
     }
 
-    drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowWorldXI) {
-        this.teams = Utils.filterTeams(teamsType, teamsLevel, allowWorldXI);
+    drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars) {
+        this.teams = Utils.filterTeams(teamsType, teamsLevel, allowAllStars);
 
         if (this.teams.length < 2) {
             this.onDrawGamesFailure();
@@ -103,8 +103,8 @@ export default class Games extends Component {
         }
     }
 
-    renderGames({ numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowWorldXI }) {
-        this.drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowWorldXI);
+    renderGames({ numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars }) {
+        this.drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars);
 
         return this.games.map(game => {
             return <Game key={ game.id } game={ game } player1={ this.player1 } player2={ this.player2 } onGameSubmit={ this.onGameSubmit.bind(this) } ref={ game => this.gameRefs.push(game) } />;
