@@ -75,7 +75,7 @@
             "national_teams": {
                 "men": {
                     "id": 329,
-                    "stars": 2.5
+                    "stars": 2
                 }
             }
         },
@@ -95,7 +95,7 @@
             "national_teams": {
                 "men": {
                     "id": 331,
-                    "stars": 3
+                    "stars": 3.5
                 },
                 "women": {
                     "id": 692,
@@ -119,13 +119,11 @@
             "national_teams": {
                 "men": {
                     "id": 332,
-                    "stars": 3,
-                    "deprecated": true
+                    "stars": 2.5
                 },
                 "women": {
                     "id": 693,
-                    "stars": 4,
-                    "deprecated": true
+                    "stars": 4
                 }
             }
         },
@@ -195,7 +193,7 @@
             "national_teams": {
                 "men": {
                     "id": 311,
-                    "stars": 4.5
+                    "stars": 5
                 },
                 "women": {
                     "id": 682,
@@ -237,7 +235,7 @@
                 },
                 "women": {
                     "id": 684,
-                    "stars": 4.5
+                    "stars": 5
                 }
             }
         },
@@ -301,13 +299,20 @@
                 },
                 "women": {
                     "id": 685,
-                    "stars": 4
+                    "stars": 4,
+                    "deprecated": true
                 }
             }
         },
         "13": {
             "id": 13,
-            "name": "Japan"
+            "name": "Japan",
+            "national_teams": {
+                "women":{
+                    "id": 905,
+                    "stars": 4.5
+                }
+            }
         },
         "14": {
             "id": 14,
@@ -371,7 +376,7 @@
             "national_teams": {
                 "men": {
                     "id": 317,
-                    "stars": 3.5
+                    "stars": 4
                 },
                 "women": {
                     "id": 688,
@@ -385,7 +390,7 @@
             "national_teams": {
                 "men": {
                     "id": 342,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -415,7 +420,7 @@
             "national_teams": {
                 "men": {
                     "id": 319,
-                    "stars": 4.5
+                    "stars": 5
                 }
             }
         },
@@ -461,6 +466,10 @@
                 "men": {
                     "id": 322,
                     "stars": 4
+                },
+                "women": {
+                    "id": 906,
+                    "stars": 4
                 }
             }
         },
@@ -470,7 +479,7 @@
             "national_teams": {
                 "men": {
                     "id": 346,
-                    "stars": 4
+                    "stars": 3.5
                 }
             }
         },
@@ -538,7 +547,7 @@
             "national_teams": {
                 "men": {
                     "id": 327,
-                    "stars": 3.5
+                    "stars": 4
                 },
                 "women": {
                     "id": 691,
@@ -572,7 +581,7 @@
             "national_teams": {
                 "men": {
                     "id": 350,
-                    "stars": 4
+                    "stars": 3.5
                 }
             }
         }
