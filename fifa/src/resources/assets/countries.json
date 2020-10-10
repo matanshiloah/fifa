@@ -1,5 +1,5 @@
 {
-    "last_update": "30-Sep-2017 11:57",
+    "last_update": "10-10-2020 10:33",
     "countries": {
         "1": {
             "id": 1,
@@ -7,7 +7,7 @@
             "national_teams": {
                 "men": {
                     "id": 304,
-                    "stars": 4.5
+                    "stars": 5
                 }
             }
         },
@@ -51,7 +51,7 @@
             "national_teams": {
                 "men": {
                     "id": 328,
-                    "stars": 2.5
+                    "stars": 2
                 }
             }
         },
@@ -75,7 +75,7 @@
             "national_teams": {
                 "men": {
                     "id": 329,
-                    "stars": 2
+                    "stars": 2.5
                 }
             }
         },
@@ -85,7 +85,7 @@
             "national_teams": {
                 "men": {
                     "id": 330,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -119,7 +119,7 @@
             "national_teams": {
                 "men": {
                     "id": 332,
-                    "stars": 2.5
+                    "stars": 3
                 },
                 "women": {
                     "id": 693,
@@ -245,7 +245,7 @@
             "national_teams": {
                 "men": {
                     "id": 338,
-                    "stars": 4
+                    "stars": 3.5
                 }
             }
         },
@@ -285,7 +285,7 @@
             "national_teams": {
                 "men": {
                     "id": 320,
-                    "stars": 3.5
+                    "stars": 4
                 }
             }
         },
@@ -366,7 +366,7 @@
             "national_teams": {
                 "men": {
                     "id": 341,
-                    "stars": 3.5
+                    "stars": 3
                 }
             }
         },
@@ -390,7 +390,7 @@
             "national_teams": {
                 "men": {
                     "id": 342,
-                    "stars": 4
+                    "stars": 3.5
                 }
             }
         },
@@ -547,7 +547,7 @@
             "national_teams": {
                 "men": {
                     "id": 327,
-                    "stars": 4
+                    "stars": 3.5
                 },
                 "women": {
                     "id": 691,
@@ -584,6 +584,10 @@
                     "stars": 3.5
                 }
             }
+        },
+        "54": {
+            "id": 54,
+            "name": "Conmebol"
         }
     }
 }

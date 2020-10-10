@@ -1,16 +1,16 @@
 {
-    "last_update": "30-Sep-2017 12:06",
+    "last_update": "10-10-2020 10:33",
     "clubs": {
         "1": {
             "id": 1,
             "name": "Aldosivi",
-            "stars": 3,
+            "stars": 2.5,
             "league": 1
         },
         "697": {
             "id": 697,
             "name": "Argentinos Jrs.",
-            "stars": 3,
+            "stars": 3.5,
             "league": 1
         },
         "2": {
@@ -29,13 +29,13 @@
         "4": {
             "id": 4,
             "name": "Atletico Tucuman",
-            "stars": 3,
+            "stars": 2.5,
             "league": 1
         },
         "5": {
             "id": 5,
             "name": "Banfield",
-            "stars": 3.5,
+            "stars": 3,
             "league": 1
         },
         "6": {
@@ -54,7 +54,7 @@
         "845": {
             "id": 845,
             "name": "Central Cordoba",
-            "stars": 2,
+            "stars": 2.5,
             "league": 1
         },
         "8": {
@@ -72,31 +72,31 @@
         "10": {
             "id": 10,
             "name": "Estudiantes",
-            "stars": 3,
+            "stars": 3.5,
             "league": 1
         },
         "11": {
             "id": 11,
             "name": "Gimnasia",
-            "stars": 3,
+            "stars": 2.5,
             "league": 1
         },
         "12": {
             "id": 12,
             "name": "Godoy Cruz",
-            "stars": 2,
+            "stars": 2.5,
             "league": 1
         },
         "13": {
             "id": 13,
             "name": "Huracan",
-            "stars": 3,
+            "stars": 2,
             "league": 1
         },
         "14": {
             "id": 14,
             "name": "Independiente",
-            "stars": 4,
+            "stars": 3.5,
             "league": 1
         },
         "15": {
@@ -127,7 +127,7 @@
         "18": {
             "id": 18,
             "name": "Patronato",
-            "stars": 2.5,
+            "stars": 2,
             "league": 1
         },
         "19": {
@@ -146,7 +146,7 @@
         "22": {
             "id": 22,
             "name": "Rosario Central",
-            "stars": 3.5,
+            "stars": 3,
             "league": 1
         },
         "23": {
@@ -179,7 +179,7 @@
         "26": {
             "id": 26,
             "name": "Talleres",
-            "stars": 3,
+            "stars": 2.5,
             "league": 1
         },
         "27": {
@@ -192,9 +192,8 @@
         "28": {
             "id": 28,
             "name": "Tigre",
-            "stars": 3,
-            "league": 1,
-            "deprecated": true
+            "stars": 2,
+            "league": 40
         },
         "29": {
             "id": 29,
@@ -218,13 +217,13 @@
         "31": {
             "id": 31,
             "name": "Adelaide United",
-            "stars": 1.5,
+            "stars": 1,
             "league": 2
         },
         "32": {
             "id": 32,
             "name": "Brisbane Roar",
-            "stars": 1.5,
+            "stars": 1,
             "league": 2
         },
         "33": {
@@ -233,34 +232,40 @@
             "stars": 1,
             "league": 2
         },
+        "907": {
+            "id": 907,
+            "name": "Macarther FC",
+            "stars": 1,
+            "league": 2
+        },
         "34": {
             "id": 34,
             "name": "Melb. Victory",
-            "stars": 1.5,
+            "stars": 0.5,
             "league": 2
         },
         "35": {
             "id": 35,
             "name": "Melbourne City",
-            "stars": 2,
+            "stars": 1.5,
             "league": 2
         },
         "36": {
             "id": 36,
             "name": "Newcastle Jets",
-            "stars": 1.5,
+            "stars": 1,
             "league": 2
         },
         "37": {
             "id": 37,
             "name": "Perth Glory",
-            "stars": 2,
+            "stars": 1.5,
             "league": 2
         },
         "38": {
             "id": 38,
             "name": "Sydney FC",
-            "stars": 2.5,
+            "stars": 2,
             "league": 2
         },
         "39": {
@@ -272,19 +277,19 @@
         "846": {
             "id": 846,
             "name": "Western United",
-            "stars": 2,
+            "stars": 1.5,
             "league": 2
         },
         "40": {
             "id": 40,
             "name": "WS Wanderers",
-            "stars": 1.5,
+            "stars": 1,
             "league": 2
         },
         "41": {
             "id": 41,
             "name": "Admira Wacker",
-            "stars": 2,
+            "stars": 1.5,
             "league": 3
         },
         "42": {
@@ -302,7 +307,7 @@
         },
         "699": {
             "id": 699,
-            "name": "Lask Linz",
+            "name": "Lask",
             "stars": 3,
             "league": 3
         },
@@ -327,7 +332,7 @@
         "46": {
             "id": 46,
             "name": "SK Sturm Graz",
-            "stars": 3,
+            "stars": 2.5,
             "league": 3
         },
         "47": {
@@ -340,25 +345,25 @@
             "id": 48,
             "name": "SV Mattersburg",
             "stars": 1.5,
+            "league": 3,
+            "deprecated": true
+        },
+        "49": {
+            "id": 49,
+            "name": "SV Ried",
+            "stars": 2,
             "league": 3
         },
         "779": {
             "id": 779,
             "name": "TSV Hartberg",
-            "stars": 1.5,
+            "stars": 2,
             "league": 3
-        },
-        "49": {
-            "id": 49,
-            "name": "SV Ried",
-            "stars": 2.5,
-            "league": 3,
-            "deprecated": true
         },
         "50": {
             "id": 50,
             "name": "Wolfsberger FC",
-            "stars": 2,
+            "stars": 2.5,
             "league": 3
         },
         "847": {
@@ -382,7 +387,13 @@
         "52": {
             "id": 52,
             "name": "Excel Mouscron",
-            "stars": 3.5,
+            "stars": 2.5,
+            "league": 4
+        },
+        "908": {
+            "id": 908,
+            "name": "K Beerschot VA",
+            "stars": 2.5,
             "league": 4
         },
         "53": {
@@ -418,7 +429,7 @@
         "58": {
             "id": 58,
             "name": "KV Oostende",
-            "stars": 3,
+            "stars": 2.5,
             "league": 4
         },
         "59": {
@@ -427,6 +438,12 @@
             "stars": 3,
             "league": 4,
             "deprecated": true
+        },
+        "909": {
+            "id": 909,
+            "name": "OH Leuven",
+            "stars": 2.5,
+            "league": 4
         },
         "700": {
             "id": 700,
@@ -449,7 +466,7 @@
         "62": {
             "id": 62,
             "name": "Sp. Charleroi",
-            "stars": 3,
+            "stars": 3.5,
             "league": 4
         },
         "63": {
@@ -468,7 +485,7 @@
         "65": {
             "id": 65,
             "name": "Waasl. Beveren",
-            "stars": 2,
+            "stars": 2.5,
             "league": 4
         },
         "66": {
@@ -499,15 +516,15 @@
         "701": {
             "id": 701,
             "name": "Atletico-Go",
-            "stars": 2.5,
-            "league": 5,
-            "deprecated": true
+            "stars": 3.5,
+            "league": 5
         },
         "520": {
             "id": 520,
             "name": "Avai",
             "stars": 3,
-            "league": 5
+            "league": 5,
+            "deprecated": true
         },
         "781": {
             "id": 781,
@@ -531,26 +548,28 @@
             "id": 71,
             "name": "Chapecoense",
             "stars": 3.5,
-            "league": 5
+            "league": 5,
+            "deprecated": true
         },
         "72": {
             "id": 72,
             "name": "Coritiba",
             "stars": 3.5,
-            "league": 5,
-            "deprecated": true
+            "league": 5
         },
         "73": {
             "id": 73,
             "name": "Cruzeiro",
             "stars": 3.5,
-            "league": 5
+            "league": 5,
+            "deprecated": true
         },
         "848": {
             "id": 848,
             "name": "CSA",
             "stars": 3.5,
-            "league": 5
+            "league": 5,
+            "deprecated": true
         },
         "74": {
             "id": 74,
@@ -580,7 +599,7 @@
         "76": {
             "id": 76,
             "name": "Gremio",
-            "stars": 4,
+            "stars": 3.5,
             "league": 5
         },
         "77": {
@@ -591,10 +610,9 @@
         },
         "78": {
             "id": 78,
-            "name": "Palmeiras",
-            "stars": 3.5,
-            "league": 5,
-            "deprecated": true
+            "name": "Oceanico FC (Palmeiras)",
+            "stars": 2.5,
+            "league": 5
         },
         "783": {
             "id": 783,
@@ -626,9 +644,8 @@
         "82": {
             "id": 82,
             "name": "Sao Paulo",
-            "stars": 3,
-            "league": 5,
-            "deprecated": true
+            "stars": 3.5,
+            "league": 40
         },
         "83": {
             "id": 83,
@@ -648,19 +665,22 @@
             "id": 85,
             "name": "Audax Italiano",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "86": {
             "id": 86,
             "name": "CD Antofagasta",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "87": {
             "id": 87,
             "name": "CD Cobresal",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "88": {
             "id": 88,
@@ -673,43 +693,50 @@
             "id": 89,
             "name": "CD O'Higgins",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "90": {
             "id": 90,
             "name": "CD Palestino",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "91": {
             "id": 91,
             "name": "CD Vinazur",
             "stars": 3.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "851": {
             "id": 851,
             "name": "Coquimbo Unido",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "702": {
             "id": 702,
             "name": "Curico Unido",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "92": {
             "id": 92,
             "name": "Depor. Iquique",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "98": {
             "id": 98,
             "name": "Deported Nunoa (Uni. de Chile)",
             "stars": 3,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "93": {
             "id": 93,
@@ -722,13 +749,15 @@
             "id": 94,
             "name": "Everton de Vina",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "852": {
             "id": 852,
             "name": "Huachipato FC",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "95": {
             "id": 95,
@@ -741,25 +770,28 @@
             "id": 96,
             "name": "Uni. Catolica",
             "stars": 3.5,
-            "league": 6
+            "league": 40
         },
         "97": {
             "id": 97,
             "name": "Uni. Concepcion",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "99": {
             "id": 99,
             "name": "Union Espanola",
             "stars": 2,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "784": {
             "id": 784,
             "name": "Union la Calera",
             "stars": 2.5,
-            "league": 6
+            "league": 6,
+            "deprecated": true
         },
         "100": {
             "id": 100,
@@ -771,14 +803,15 @@
         "785": {
             "id": 785,
             "name": "Beijing Guoan",
-            "stars": 3,
+            "stars": 3.5,
             "league": 38
         },
         "786": {
             "id": 786,
             "name": "Beijing Renhe",
             "stars": 1.5,
-            "league": 38
+            "league": 38,
+            "deprecated": true
         },
         "787": {
             "id": 787,
@@ -793,11 +826,18 @@
             "stars": 1.5,
             "league": 38
         },
+        "910": {
+            "id": 910,
+            "name": "Dalian Pro",
+            "stars": 2,
+            "league": 38
+        },
         "789": {
             "id": 789,
             "name": "Dalian Yifang",
             "stars": 2.5,
-            "league": 38
+            "league": 38,
+            "deprecated": true
         },
         "790": {
             "id": 790,
@@ -808,7 +848,7 @@
         "791": {
             "id": 791,
             "name": "Guangzhou R&F",
-            "stars": 2.5,
+            "stars": 2,
             "league": 38
         },
         "792": {
@@ -821,13 +861,13 @@
         "793": {
             "id": 793,
             "name": "Hebei CFFC",
-            "stars": 2.5,
+            "stars": 2,
             "league": 38
         },
         "794": {
             "id": 794,
             "name": "Henan Jianye",
-            "stars": 1.5,
+            "stars": 2,
             "league": 38
         },
         "795": {
@@ -836,10 +876,16 @@
             "stars": 2.5,
             "league": 38
         },
+        "911": {
+            "id": 911,
+            "name": "Qingdao Huanghai",
+            "stars": 1,
+            "league": 38
+        },
         "796": {
             "id": 796,
             "name": "Shandong Luneng",
-            "stars": 2.5,
+            "stars": 3,
             "league": 38
         },
         "797": {
@@ -857,6 +903,12 @@
         "853": {
             "id": 853,
             "name": "Shenzhen Kaisa",
+            "stars": 2,
+            "league": 38
+        },
+        "912": {
+            "id": 912,
+            "name": "Shijiazhuang",
             "stars": 1,
             "league": 38
         },
@@ -877,43 +929,48 @@
             "id": 854,
             "name": "Tianjin Tianhai",
             "stars": 2,
-            "league": 38
+            "league": 38,
+            "deprecated": true
         },
         "855": {
             "id": 855,
             "name": "Wuhan Zall",
-            "stars": 1.5,
+            "stars": 2.5,
             "league": 38
         },
         "101": {
             "id": 101,
             "name": "Al. Petrolera",
             "stars": 2,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "703": {
             "id": 703,
             "name": "America de Cali",
-            "stars": 2.5,
-            "league": 7
+            "stars": 3,
+            "league": 40
         },
         "102": {
             "id": 102,
             "name": "Atl. Bucaramanga",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "103": {
             "id": 103,
             "name": "Atl. Nacional",
             "stars": 3.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "104": {
             "id": 104,
             "name": "Atletico Huila",
             "stars": 1.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "105": {
             "id": 105,
@@ -933,31 +990,36 @@
             "id": 856,
             "name": "Cucuta Deportivo",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "107": {
             "id": 107,
             "name": "Deportes Tolima",
             "stars": 3,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "108": {
             "id": 108,
             "name": "Deportivo Cali",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "109": {
             "id": 109,
             "name": "Deportivo Pasto",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "110": {
             "id": 110,
             "name": "Envigado",
             "stars": 2,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "111": {
             "id": 111,
@@ -976,26 +1038,29 @@
         "113": {
             "id": 113,
             "name": "Indep. Medellin",
-            "stars": 3,
-            "league": 7
+            "stars": 2,
+            "league": 40
         },
         "114": {
             "id": 114,
             "name": "Jaguares",
             "stars": 1.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "115": {
             "id": 115,
             "name": "Junior",
             "stars": 3.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "116": {
             "id": 116,
             "name": "La Equidad",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "801": {
             "id": 801,
@@ -1008,31 +1073,36 @@
             "id": 117,
             "name": "Millonarios",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "118": {
             "id": 118,
             "name": "Once Caldas",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "119": {
             "id": 119,
             "name": "Patriotas",
             "stars": 2,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "120": {
             "id": 120,
             "name": "Rionegro Aguilas",
             "stars": 2,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "857": {
             "id": 857,
             "name": "Santa Fe",
             "stars": 2.5,
-            "league": 7
+            "league": 7,
+            "deprecated": true
         },
         "704": {
             "id": 704,
@@ -1045,18 +1115,115 @@
             "id": 858,
             "name": "Union Magdalena",
             "stars": 2,
-            "league": 7
+            "league": 7,
+            "deprecated": true
+        },
+        "913": {
+            "id": 913,
+            "name": "Alianza Lima",
+            "stars": 2,
+            "league": 40
+        },
+        "914": {
+            "id": 914,
+            "name": "Barcelona SC",
+            "stars": 2.5,
+            "league": 40
+        },
+        "915": {
+            "id": 915,
+            "name": "Binacional",
+            "stars": 2.5,
+            "league": 40
+        },
+        "916": {
+            "id": 916,
+            "name": "Bolivar",
+            "stars": 2.5,
+            "league": 40
+        },
+        "917": {
+            "id": 917,
+            "name": "Caracas F.C.",
+            "stars": 1.5,
+            "league": 40
+        },
+        "918": {
+            "id": 918,
+            "name": "Colo-Colo",
+            "stars": 3.5,
+            "league": 40
+        },
+        "919": {
+            "id": 919,
+            "name": "Delfin S.C.",
+            "stars": 2,
+            "league": 40
+        },
+        "920": {
+            "id": 920,
+            "name": "Est. de Merida",
+            "stars": 1.5,
+            "league": 40
+        },
+        "921": {
+            "id": 921,
+            "name": "Guarani",
+            "stars": 2.5,
+            "league": 40
+        },
+        "922": {
+            "id": 922,
+            "name": "Junior",
+            "stars": 3.5,
+            "league": 40
+        },
+        "923": {
+            "id": 923,
+            "name": "LDU Quito",
+            "stars": 3,
+            "league": 40
+        },
+        "924": {
+            "id": 924,
+            "name": "Libertad",
+            "stars": 3.5,
+            "league": 40
+        },
+        "925": {
+            "id": 925,
+            "name": "Nacional",
+            "stars": 3.5,
+            "league": 40
+        },
+        "926": {
+            "id": 926,
+            "name": "Olimpia",
+            "stars": 3.5,
+            "league": 40
+        },
+        "927": {
+            "id": 927,
+            "name": "Penarol",
+            "stars": 3.5,
+            "league": 40
+        },
+        "928": {
+            "id": 928,
+            "name": "Wilstermann",
+            "stars": 2,
+            "league": 40
         },
         "121": {
             "id": 121,
             "name": "Aalborg BK",
-            "stars": 2,
+            "stars": 2.5,
             "league": 8
         },
         "122": {
             "id": 122,
-            "name": "Aarhus GF",
-            "stars": 2,
+            "name": "Aarhus AGF",
+            "stars": 2.5,
             "league": 8
         },
         "123": {
@@ -1082,7 +1249,8 @@
             "id": 125,
             "name": "Esbjerg fB",
             "stars": 2,
-            "league": 8
+            "league": 8,
+            "deprecated": true
         },
         "126": {
             "id": 126,
@@ -1093,7 +1261,7 @@
         "127": {
             "id": 127,
             "name": "FC Midtjylland",
-            "stars": 3,
+            "stars": 3.5,
             "league": 8
         },
         "128": {
@@ -1106,12 +1274,13 @@
             "id": 706,
             "name": "Hobro IK",
             "stars": 1.5,
-            "league": 8
+            "league": 8,
+            "deprecated": true
         },
         "129": {
             "id": 129,
             "name": "Lyngby BK",
-            "stars": 1,
+            "stars": 1.5,
             "league": 8
         },
         "130": {
@@ -1123,14 +1292,15 @@
         "131": {
             "id": 131,
             "name": "Randers FC",
-            "stars": 1.5,
+            "stars": 2,
             "league": 8
         },
         "132": {
             "id": 132,
             "name": "Silkeborg IF",
             "stars": 1,
-            "league": 8
+            "league": 8,
+            "deprecated": true
         },
         "133": {
             "id": 133,
@@ -1141,9 +1311,8 @@
         "802": {
             "id": 802,
             "name": "Vejle Boldklub",
-            "stars": 1.5,
-            "league": 8,
-            "deprecated": true
+            "stars": 2,
+            "league": 8
         },
         "803": {
             "id": 803,
@@ -1158,12 +1327,6 @@
             "stars": 2,
             "league": 8,
             "deprecated": true
-        },
-        "136": {
-            "id": 136,
-            "name": "AFC Bournemouth",
-            "stars": 4,
-            "league": 9
         },
         "135": {
             "id": 135,
@@ -1207,10 +1370,22 @@
             "stars": 4.5,
             "league": 9
         },
+        "165": {
+            "id": 165,
+            "name": "Fulham",
+            "stars": 4,
+            "league": 9
+        },
+        "168": {
+            "id": 168,
+            "name": "Leeds United",
+            "stars": 3.5,
+            "league": 9
+        },
         "142": {
             "id": 142,
             "name": "Leicester City",
-            "stars": 4,
+            "stars": 4.5,
             "league": 9
         },
         "143": {
@@ -1237,16 +1412,10 @@
             "stars": 4,
             "league": 9
         },
-        "170": {
-            "id": 170,
-            "name": "Norwich",
-            "stars": 3.5,
-            "league": 9
-        },
         "198": {
             "id": 198,
             "name": "Sheffield Utd",
-            "stars": 3.5,
+            "stars": 4,
             "league": 9
         },
         "147": {
@@ -1258,19 +1427,19 @@
         "148": {
             "id": 148,
             "name": "Spurs",
-            "stars": 5,
+            "stars": 4.5,
             "league": 9
         },
-        "152": {
-            "id": 152,
-            "name": "Watford",
-            "stars": 4,
+        "153": {
+            "id": 153,
+            "name": "West Brom",
+            "stars": 3.5,
             "league": 9
         },
         "154": {
             "id": 154,
             "name": "West Ham",
-            "stars": 4.5,
+            "stars": 4,
             "league": 9
         },
         "178": {
@@ -1279,10 +1448,16 @@
             "stars": 4,
             "league": 9
         },
+        "136": {
+            "id": 136,
+            "name": "AFC Bournemouth",
+            "stars": 3.5,
+            "league": 10
+        },
         "156": {
             "id": 156,
             "name": "Barnsley",
-            "stars": 2.5,
+            "stars": 2,
             "league": 10
         },
         "157": {
@@ -1315,9 +1490,9 @@
             "stars": 3.5,
             "league": 10
         },
-        "184": {
-            "id": 184,
-            "name": "Charlton Ath",
+        "186": {
+            "id": 186,
+            "name": "Coventry City",
             "stars": 2.5,
             "league": 10
         },
@@ -1327,28 +1502,10 @@
             "stars": 3.5,
             "league": 10
         },
-        "165": {
-            "id": 165,
-            "name": "Fulham",
-            "stars": 3.5,
-            "league": 10
-        },
         "166": {
             "id": 166,
             "name": "Huddersfield",
-            "stars": 3.5,
-            "league": 10
-        },
-        "141": {
-            "id": 141,
-            "name": "Hull City",
             "stars": 3,
-            "league": 10
-        },
-        "168": {
-            "id": 168,
-            "name": "Leeds United",
-            "stars": 3.5,
             "league": 10
         },
         "217": {
@@ -1369,6 +1526,12 @@
             "stars": 3,
             "league": 10
         },
+        "170": {
+            "id": 170,
+            "name": "Norwich",
+            "stars": 3.5,
+            "league": 10
+        },
         "171": {
             "id": 171,
             "name": "Nott'm Forest",
@@ -1378,7 +1541,7 @@
         "172": {
             "id": 172,
             "name": "Preston",
-            "stars": 3,
+            "stars": 3.5,
             "league": 10
         },
         "173": {
@@ -1390,13 +1553,19 @@
         "174": {
             "id": 174,
             "name": "Reading",
-            "stars": 3.5,
+            "stars": 3,
+            "league": 10
+        },
+        "175": {
+            "id": 175,
+            "name": "Rotherham Utd",
+            "stars": 2,
             "league": 10
         },
         "176": {
             "id": 176,
             "name": "Sheffield Wed",
-            "stars": 3.5,
+            "stars": 3,
             "league": 10
         },
         "149": {
@@ -1408,43 +1577,37 @@
         "151": {
             "id": 151,
             "name": "Swansea City",
-            "stars": 3.5,
-            "league": 10
-        },
-        "153": {
-            "id": 153,
-            "name": "West Brom",
-            "stars": 3.5,
-            "league": 10
-        },
-        "177": {
-            "id": 177,
-            "name": "Wigan Athletic",
             "stars": 3,
+            "league": 10
+        },
+        "152": {
+            "id": 152,
+            "name": "Watford",
+            "stars": 4,
+            "league": 10
+        },
+        "225": {
+            "id": 225,
+            "name": "Wycombe",
+            "stars": 2,
             "league": 10
         },
         "203": {
             "id": 203,
             "name": "Accrington",
-            "stars": 1.5,
+            "stars": 1,
             "league": 11
         },
         "179": {
             "id": 179,
             "name": "AFC Wimbledon",
-            "stars": 1,
+            "stars": 1.5,
             "league": 11
         },
         "205": {
             "id": 205,
             "name": "Blackpool",
-            "stars": 1.5,
-            "league": 11
-        },
-        "180": {
-            "id": 180,
-            "name": "Bolton",
-            "stars": 0.5,
+            "stars": 2,
             "league": 11
         },
         "182": {
@@ -1463,11 +1626,18 @@
             "id": 183,
             "name": "Bury",
             "stars": 0.5,
+            "league": 11,
+            "deprecated": true
+        },
+        "184": {
+            "id": 184,
+            "name": "Charlton Ath",
+            "stars": 2,
             "league": 11
         },
-        "186": {
-            "id": 186,
-            "name": "Coventry City",
+        "211": {
+            "id": 211,
+            "name": "Crewe Alexandra",
             "stars": 1.5,
             "league": 11
         },
@@ -1489,21 +1659,33 @@
             "stars": 1.5,
             "league": 11
         },
+        "141": {
+            "id": 141,
+            "name": "Hull City",
+            "stars": 2,
+            "league": 11
+        },
         "167": {
             "id": 167,
             "name": "Ipswich",
-            "stars": 2.5,
+            "stars": 2,
             "league": 11
         },
         "708": {
             "id": 708,
             "name": "Lincoln City",
-            "stars": 2,
+            "stars": 1.5,
             "league": 11
         },
         "190": {
             "id": 190,
             "name": "MK Dons",
+            "stars": 1.5,
+            "league": 11
+        },
+        "191": {
+            "id": 191,
+            "name": "Northampton",
             "stars": 1.5,
             "league": 11
         },
@@ -1519,6 +1701,12 @@
             "stars": 2,
             "league": 11
         },
+        "222": {
+            "id": 222,
+            "name": "Plymouth Argyle",
+            "stars": 1.5,
+            "league": 11
+        },
         "223": {
             "id": 223,
             "name": "Portsmouth",
@@ -1528,57 +1716,50 @@
         "196": {
             "id": 196,
             "name": "Rochdale",
-            "stars": 1.5,
-            "league": 11
-        },
-        "175": {
-            "id": 175,
-            "name": "Rotherham Utd",
-            "stars": 2,
+            "stars": 1,
             "league": 11
         },
         "199": {
             "id": 199,
             "name": "Shrewsbury",
-            "stars": 2,
-            "league": 11
-        },
-        "200": {
-            "id": 200,
-            "name": "Southend United",
-            "stars": 2,
+            "stars": 1.5,
             "league": 11
         },
         "150": {
             "id": 150,
             "name": "Sunderland",
-            "stars": 2.5,
+            "stars": 2,
             "league": 11
         },
-        "805": {
-            "id": 805,
-            "name": "Tranmere Rovers",
+        "201": {
+            "id": 201,
+            "name": "Swindon Town",
             "stars": 1.5,
             "league": 11
         },
-        "225": {
-            "id": 225,
-            "name": "Wycombe",
+        "177": {
+            "id": 177,
+            "name": "Wigan Athletic",
             "stars": 1.5,
             "league": 11
-        },
-        "181": {
-            "id": 181,
-            "name": "Bradford City",
-            "stars": 1.5,
-            "league": 12
         },
         "204": {
             "id": 204,
             "name": "Barnet",
             "stars": 1,
-            "league": 12,
-            "deprecated": true
+            "league": 12
+        },
+        "180": {
+            "id": 180,
+            "name": "Bolton",
+            "stars": 1.5,
+            "league": 12
+        },
+        "181": {
+            "id": 181,
+            "name": "Bradford City",
+            "stars": 1,
+            "league": 12
         },
         "206": {
             "id": 206,
@@ -1617,28 +1798,28 @@
             "stars": 1,
             "league": 12
         },
-        "211": {
-            "id": 211,
-            "name": "Crewe Alexandra",
-            "stars": 0.5,
-            "league": 12
-        },
         "213": {
             "id": 213,
             "name": "Exeter City",
-            "stars": 1.5,
+            "stars": 1,
             "league": 12
         },
         "707": {
             "id": 707,
             "name": "Forest Green",
-            "stars": 1.5,
+            "stars": 1,
             "league": 12
         },
         "214": {
             "id": 214,
             "name": "Grimsby Town",
             "stars": 1,
+            "league": 12
+        },
+        "929": {
+            "id": 929,
+            "name": "Harrogate Town",
+            "stars": 0.5,
             "league": 12
         },
         "215": {
@@ -1658,7 +1839,8 @@
             "id": 804,
             "name": "Macclesfield",
             "stars": 1,
-            "league": 12
+            "league": 12,
+            "deprecated": true
         },
         "218": {
             "id": 218,
@@ -1678,12 +1860,6 @@
             "stars": 1,
             "league": 12
         },
-        "191": {
-            "id": 191,
-            "name": "Northampton",
-            "stars": 1.5,
-            "league": 12
-        },
         "221": {
             "id": 221,
             "name": "Notts County",
@@ -1694,19 +1870,13 @@
         "192": {
             "id": 192,
             "name": "Oldham Athletic",
-            "stars": 1.5,
-            "league": 12
-        },
-        "222": {
-            "id": 222,
-            "name": "Plymouth Argyle",
-            "stars": 1.5,
+            "stars": 1,
             "league": 12
         },
         "195": {
             "id": 195,
             "name": "Port Vale",
-            "stars": 1,
+            "stars": 1.5,
             "league": 12
         },
         "859": {
@@ -1718,7 +1888,13 @@
         "197": {
             "id": 197,
             "name": "Scunthorpe Utd",
-            "stars": 1.5,
+            "stars": 1,
+            "league": 12
+        },
+        "200": {
+            "id": 200,
+            "name": "Southend United",
+            "stars": 1,
             "league": 12
         },
         "224": {
@@ -1727,16 +1903,16 @@
             "stars": 1,
             "league": 12
         },
-        "201": {
-            "id": 201,
-            "name": "Swindon Town",
+        "805": {
+            "id": 805,
+            "name": "Tranmere Rovers",
             "stars": 1.5,
             "league": 12
         },
         "202": {
             "id": 202,
             "name": "Walsall",
-            "stars": 1.5,
+            "stars": 1,
             "league": 12
         },
         "226": {
@@ -1745,12 +1921,6 @@
             "stars": 1,
             "league": 12,
             "deprecated": true
-        },
-        "249": {
-            "id": 249,
-            "name": "Amiens SC",
-            "stars": 3.5,
-            "league": 13
         },
         "227": {
             "id": 227,
@@ -1761,18 +1931,30 @@
         "228": {
             "id": 228,
             "name": "AS Monaco",
-            "stars": 4.5,
+            "stars": 4,
             "league": 13
         },
         "230": {
             "id": 230,
             "name": "ASSE",
-            "stars": 4,
+            "stars": 3.5,
+            "league": 13
+        },
+        "236": {
+            "id": 236,
+            "name": "Bordeaux",
+            "stars": 3.5,
             "league": 13
         },
         "231": {
             "id": 231,
             "name": "Dijon FCO",
+            "stars": 3.5,
+            "league": 13
+        },
+        "233": {
+            "id": 233,
+            "name": "FC Lorient",
             "stars": 3,
             "league": 13
         },
@@ -1788,22 +1970,16 @@
             "stars": 3.5,
             "league": 13
         },
-        "236": {
-            "id": 236,
-            "name": "Girondins de Bx",
-            "stars": 4,
-            "league": 13
-        },
         "237": {
             "id": 237,
-            "name": "LOSC Lille",
+            "name": "LOSC",
             "stars": 4,
             "league": 13
         },
         "238": {
             "id": 238,
-            "name": "Montpellier HSC",
-            "stars": 4,
+            "name": "Montpellier",
+            "stars": 3.5,
             "league": 13
         },
         "257": {
@@ -1815,13 +1991,13 @@
         "240": {
             "id": 240,
             "name": "OGC Nice",
-            "stars": 3.5,
+            "stars": 4,
             "league": 13
         },
         "241": {
             "id": 241,
             "name": "OL",
-            "stars": 4.5,
+            "stars": 4,
             "league": 13
         },
         "239": {
@@ -1832,14 +2008,20 @@
         },
         "242": {
             "id": 242,
-            "name": "Paris",
+            "name": "Paris SG",
             "stars": 5,
             "league": 13
         },
-        "259": {
-            "id": 259,
-            "name": "RC Strasbourg",
+        "258": {
+            "id": 258,
+            "name": "RC Lens",
             "stars": 3.5,
+            "league": 13
+        },
+        "245": {
+            "id": 245,
+            "name": "Rennais",
+            "stars": 4,
             "league": 13
         },
         "261": {
@@ -1861,28 +2043,28 @@
             "stars": 3.5,
             "league": 13
         },
-        "245": {
-            "id": 245,
-            "name": "Stade Rennais",
-            "stars": 3.5,
-            "league": 13
-        },
-        "246": {
-            "id": 246,
-            "name": "Toulouse FC",
+        "259": {
+            "id": 259,
+            "name": "Strasbourg",
             "stars": 3.5,
             "league": 13
         },
         "247": {
             "id": 247,
             "name": "AC Ajaccio",
-            "stars": 2,
+            "stars": 2.5,
             "league": 14
         },
         "248": {
             "id": 248,
             "name": "AJ Auxerre",
-            "stars": 2.5,
+            "stars": 3,
+            "league": 14
+        },
+        "249": {
+            "id": 249,
+            "name": "Amiens SC",
+            "stars": 3,
             "league": 14
         },
         "806": {
@@ -1899,40 +2081,28 @@
             "league": 14,
             "deprecated": true
         },
-        "251": {
-            "id": 251,
-            "name": "Chamois FC",
+        "709": {
+            "id": 709,
+            "name": "Chateauroux",
             "stars": 2,
             "league": 14
         },
         "252": {
             "id": 252,
-            "name": "Clermont Foot",
+            "name": "Clermont",
             "stars": 2,
             "league": 14
         },
         "232": {
             "id": 232,
             "name": "EA Guingamp",
-            "stars": 3.5,
-            "league": 14
-        },
-        "253": {
-            "id": 253,
-            "name": "ESTAC Troyes",
-            "stars": 2.5,
+            "stars": 3,
             "league": 14
         },
         "860": {
             "id": 860,
             "name": "FC Chambly",
-            "stars": 2,
-            "league": 14
-        },
-        "233": {
-            "id": 233,
-            "name": "FC Lorient",
-            "stars": 3,
+            "stars": 1.5,
             "league": 14
         },
         "254": {
@@ -1950,8 +2120,8 @@
         },
         "807": {
             "id": 807,
-            "name": "Grenoble Foot",
-            "stars": 2.5,
+            "name": "Grenoble",
+            "stars": 2,
             "league": 14
         },
         "256": {
@@ -1960,22 +2130,23 @@
             "stars": 2.5,
             "league": 14
         },
-        "709": {
-            "id": 709,
-            "name": "La Berrichonne",
-            "stars": 2,
-            "league": 14
-        },
         "861": {
             "id": 861,
             "name": "Le Mans FC",
             "stars": 2,
-            "league": 14
+            "league": 14,
+            "deprecated": true
         },
         "229": {
             "id": 229,
             "name": "Nancy",
-            "stars": 2.5,
+            "stars": 2,
+            "league": 14
+        },
+        "251": {
+            "id": 251,
+            "name": "Niort",
+            "stars": 2,
             "league": 14
         },
         "710": {
@@ -1984,18 +2155,18 @@
             "stars": 2.5,
             "league": 14
         },
+        "930": {
+            "id": 930,
+            "name": "Pau FC",
+            "stars": 2,
+            "league": 14
+        },
         "711": {
             "id": 711,
             "name": "Quevilly Rouen",
             "stars": 1.5,
             "league": 14,
             "deprecated": true
-        },
-        "258": {
-            "id": 258,
-            "name": "RC Lens",
-            "stars": 3,
-            "league": 14
         },
         "260": {
             "id": 260,
@@ -2007,7 +2178,7 @@
         "862": {
             "id": 862,
             "name": "Rodez AF",
-            "stars": 1.5,
+            "stars": 2,
             "league": 14
         },
         "244": {
@@ -2023,6 +2194,12 @@
             "league": 14,
             "deprecated": true
         },
+        "246": {
+            "id": 246,
+            "name": "Toulouse FC",
+            "stars": 3,
+            "league": 13
+        },
         "264": {
             "id": 264,
             "name": "Tours FC",
@@ -2030,46 +2207,71 @@
             "league": 14,
             "deprecated": true
         },
+        "253": {
+            "id": 253,
+            "name": "Troyes",
+            "stars": 3,
+            "league": 14
+        },
+        "931": {
+            "id": 931,
+            "name": "USL Dunkerque",
+            "stars": 1.5,
+            "league": 14
+        },
         "265": {
             "id": 265,
             "name": "US Orleans",
             "stars": 2,
-            "league": 14
+            "league": 14,
+            "deprecated": true
         },
         "266": {
             "id": 266,
-            "name": "Valenciennes FC",
-            "stars": 2,
+            "name": "VAFC",
+            "stars": 2.5,
             "league": 14
+        },
+        "277": {
+            "id": 277,
+            "name": "1. FC Koln",
+            "stars": 3.5,
+            "league": 15
         },
         "279": {
             "id": 279,
             "name": "1. FSV Mainz 05",
-            "stars": 4,
+            "stars": 3.5,
+            "league": 15
+        },
+        "288": {
+            "id": 288,
+            "name": "Bielefeld",
+            "stars": 3.5,
             "league": 15
         },
         "272": {
             "id": 272,
             "name": "Dortmund",
-            "stars": 5,
-            "league": 15
-        },
-        "291": {
-            "id": 291,
-            "name": "Dusseldorf",
-            "stars": 3.5,
+            "stars": 4.5,
             "league": 15
         },
         "267": {
             "id": 267,
             "name": "FC Augsburg",
-            "stars": 4,
+            "stars": 3.5,
             "league": 15
         },
         "268": {
             "id": 268,
             "name": "FC Bayern",
             "stars": 5,
+            "league": 15
+        },
+        "282": {
+            "id": 282,
+            "name": "FC Schalke 04",
+            "stars": 4,
             "league": 15
         },
         "273": {
@@ -2080,13 +2282,7 @@
         },
         "269": {
             "id": 269,
-            "name": "Hertha BSC",
-            "stars": 4,
-            "league": 15
-        },
-        "277": {
-            "id": 277,
-            "name": "Koln",
+            "name": "Hertha Berlins",
             "stars": 4,
             "league": 15
         },
@@ -2099,13 +2295,7 @@
         "280": {
             "id": 280,
             "name": "M`gladbach",
-            "stars": 4,
-            "league": 15
-        },
-        "725": {
-            "id": 725,
-            "name": "Paderborn",
-            "stars": 3,
+            "stars": 4.5,
             "league": 15
         },
         "281": {
@@ -2114,16 +2304,10 @@
             "stars": 4.5,
             "league": 15
         },
-        "282": {
-            "id": 282,
-            "name": "Schalke",
-            "stars": 4,
-            "league": 15
-        },
         "283": {
             "id": 283,
             "name": "SC Freiburg",
-            "stars": 3.5,
+            "stars": 4,
             "league": 15
         },
         "275": {
@@ -2135,6 +2319,12 @@
         "300": {
             "id": 300,
             "name": "Union Berlin",
+            "stars": 3.5,
+            "league": 15
+        },
+        "298": {
+            "id": 298,
+            "name": "VFB Stuttgart",
             "stars": 3.5,
             "league": 15
         },
@@ -2150,51 +2340,51 @@
             "stars": 4,
             "league": 15
         },
+        "294": {
+            "id": 294,
+            "name": "1. FC Heidenheim",
+            "stars": 3,
+            "league": 16
+        },
         "285": {
             "id": 285,
             "name": "1. FC Nurnberg",
+            "stars": 3,
+            "league": 16
+        },
+        "289": {
+            "id": 289,
+            "name": "Braunschweig",
+            "stars": 2.5,
+            "league": 16
+        },
+        "291": {
+            "id": 291,
+            "name": "Dusseldorf",
             "stars": 3.5,
             "league": 16
         },
         "287": {
             "id": 287,
-            "name": "Aue",
+            "name": "Erzgebirge Aue",
             "stars": 2.5,
             "league": 16
         },
-        "288": {
-            "id": 288,
-            "name": "Bielefeld",
-            "stars": 3,
-            "league": 16
-        },
-        "301": {
-            "id": 301,
-            "name": "Bochum",
-            "stars": 3,
-            "league": 16
-        },
-        "271": {
-            "id": 271,
-            "name": "Darmstadt",
-            "stars": 3,
-            "league": 16
-        },
-        "290": {
-            "id": 290,
-            "name": "Dresden",
-            "stars": 3,
+        "297": {
+            "id": 297,
+            "name": "FC St. Pauli",
+            "stars": 2.5,
             "league": 16
         },
         "292": {
             "id": 292,
-            "name": "Furth",
+            "name": "Greuther Furth",
             "stars": 2.5,
             "league": 16
         },
         "274": {
             "id": 274,
-            "name": "Hamburg",
+            "name": "Hamburger SV",
             "stars": 3.5,
             "league": 16
         },
@@ -2204,10 +2394,16 @@
             "stars": 3.5,
             "league": 16
         },
-        "294": {
-            "id": 294,
-            "name": "Heidenheim",
-            "stars": 3,
+        "713": {
+            "id": 713,
+            "name": "Holstein Kiel",
+            "stars": 2.5,
+            "league": 16
+        },
+        "714": {
+            "id": 714,
+            "name": "Jahn Regensburg",
+            "stars": 2,
             "league": 16
         },
         "296": {
@@ -2216,34 +2412,28 @@
             "stars": 2.5,
             "league": 16
         },
-        "713": {
-            "id": 713,
-            "name": "Kiel",
-            "stars": 2.5,
+        "725": {
+            "id": 725,
+            "name": "SC Paderborn 07",
+            "stars": 3,
             "league": 16
         },
-        "714": {
-            "id": 714,
-            "name": "Regensburg",
-            "stars": 2.5,
+        "271": {
+            "id": 271,
+            "name": "SV Darmstadt 98",
+            "stars": 3,
             "league": 16
         },
         "299": {
             "id": 299,
-            "name": "Sandhausen",
+            "name": "SV Sandhausen",
             "stars": 3,
             "league": 16
         },
-        "297": {
-            "id": 297,
-            "name": "St. Pauli",
+        "301": {
+            "id": 301,
+            "name": "VFL Bochum",
             "stars": 3,
-            "league": 16
-        },
-        "298": {
-            "id": 298,
-            "name": "VFB Stuttgart",
-            "stars": 3.5,
             "league": 16
         },
         "730": {
@@ -2252,18 +2442,17 @@
             "stars": 2.5,
             "league": 16
         },
-        "728": {
-            "id": 728,
-            "name": "Wiesbaden",
-            "stars": 2.5,
-            "league": 16
-        },
         "302": {
             "id": 302,
             "name": "Wurzburg",
-            "stars": 3,
-            "league": 37,
-            "deprecated": true
+            "stars": 2,
+            "league": 16
+        },
+        "715": {
+            "id": 715,
+            "name": "1. FC Magdeburg",
+            "stars": 1.5,
+            "league": 37
         },
         "286": {
             "id": 286,
@@ -2271,34 +2460,36 @@
             "stars": 1.5,
             "league": 37
         },
-        "289": {
-            "id": 289,
-            "name": "Braunschweig",
-            "stars": 2,
-            "league": 37
-        },
         "716": {
             "id": 716,
             "name": "Carl Ziess Jena",
             "stars": 1.5,
-            "league": 37
+            "league": 37,
+            "deprecated": true
         },
         "717": {
             "id": 717,
             "name": "Chemnitzer FC",
             "stars": 1.5,
-            "league": 37
+            "league": 37,
+            "deprecated": true
         },
-        "712": {
-            "id": 712,
-            "name": "Duisburg",
-            "stars": 1.5,
+        "290": {
+            "id": 290,
+            "name": "Dynamo Dresden",
+            "stars": 2,
             "league": 37
         },
         "863": {
             "id": 863,
             "name": "FC Bayern ||",
             "stars": 1.5,
+            "league": 37
+        },
+        "276": {
+            "id": 276,
+            "name": "FC Ingolstadt",
+            "stars": 2,
             "league": 37
         },
         "808": {
@@ -2318,25 +2509,25 @@
         "719": {
             "id": 719,
             "name": "FSV Zwickau",
+            "stars": 1.5,
+            "league": 37
+        },
+        "729": {
+            "id": 729,
+            "name": "Haching",
             "stars": 2,
             "league": 37
         },
         "720": {
             "id": 720,
             "name": "Hallescher FC",
-            "stars": 2,
+            "stars": 1.5,
             "league": 37
         },
         "721": {
             "id": 721,
             "name": "Hansa Rostock",
             "stars": 2,
-            "league": 37
-        },
-        "276": {
-            "id": 276,
-            "name": "Ingolstadt",
-            "stars": 2.5,
             "league": 37
         },
         "295": {
@@ -2351,9 +2542,9 @@
             "stars": 2,
             "league": 37
         },
-        "715": {
-            "id": 715,
-            "name": "Magdeburg",
+        "712": {
+            "id": 712,
+            "name": "MSV Duisburg",
             "stars": 2,
             "league": 37
         },
@@ -2361,6 +2552,19 @@
             "id": 722,
             "name": "Preussen Munster",
             "stars": 1.5,
+            "league": 37,
+            "deprecated": true
+        },
+        "932": {
+            "id": 932,
+            "name": "Saarbrucken",
+            "stars": 1.5,
+            "league": 37
+        },
+        "933": {
+            "id": 933,
+            "name": "SC Verl",
+            "stars": 1,
             "league": 37
         },
         "723": {
@@ -2374,7 +2578,8 @@
             "id": 724,
             "name": "S. Grossaspach",
             "stars": 1.5,
-            "league": 37
+            "league": 37,
+            "deprecated": true
         },
         "726": {
             "id": 726,
@@ -2395,16 +2600,28 @@
             "stars": 1.5,
             "league": 37
         },
-        "729": {
-            "id": 729,
-            "name": "Unterhaching",
+        "728": {
+            "id": 728,
+            "name": "SVWW",
             "stars": 2,
+            "league": 37
+        },
+        "934": {
+            "id": 934,
+            "name": "Turkgucu",
+            "stars": 1.5,
+            "league": 37
+        },
+        "935": {
+            "id": 935,
+            "name": "VFB Lubeck",
+            "stars": 1.5,
             "league": 37
         },
         "865": {
             "id": 865,
             "name": "Viktoria Koln",
-            "stars": 1.5,
+            "stars": 2,
             "league": 37
         },
         "731": {
@@ -2425,23 +2642,24 @@
             "id": 733,
             "name": "Wurzburg",
             "stars": 1.5,
-            "league": 37
+            "league": 37,
+            "deprecated": true
         },
         "350": {
             "id": 350,
             "name": "Atalanta",
-            "stars": 4,
+            "stars": 4.5,
+            "league": 17
+        },
+        "373": {
+            "id": 373,
+            "name": "Benevento",
+            "stars": 3.5,
             "league": 17
         },
         "351": {
             "id": 351,
             "name": "Bologna",
-            "stars": 4,
-            "league": 17
-        },
-        "374": {
-            "id": 374,
-            "name": "Brescia",
             "stars": 3.5,
             "league": 17
         },
@@ -2449,6 +2667,12 @@
             "id": 352,
             "name": "Cagliari",
             "stars": 4,
+            "league": 17
+        },
+        "354": {
+            "id": 354,
+            "name": "Crotone",
+            "stars": 3.5,
             "league": 17
         },
         "356": {
@@ -2460,7 +2684,7 @@
         "357": {
             "id": 357,
             "name": "Genoa",
-            "stars": 4,
+            "stars": 3.5,
             "league": 17
         },
         "381": {
@@ -2475,22 +2699,22 @@
             "stars": 4.5,
             "league": 17
         },
+        "382": {
+            "id": 382,
+            "name": "La Spezia",
+            "stars": 3,
+            "league": 17
+        },
         "360": {
             "id": 360,
             "name": "Lazio",
             "stars": 4.5,
             "league": 17
         },
-        "811": {
-            "id": 811,
-            "name": "Lecce",
-            "stars": 3.5,
-            "league": 17
-        },
         "361": {
             "id": 361,
             "name": "Milan",
-            "stars": 4.5,
+            "stars": 4,
             "league": 17
         },
         "362": {
@@ -2503,7 +2727,7 @@
             "id": 736,
             "name": "Parma",
             "stars": 3.5,
-            "league": 18
+            "league": 17
         },
         "359": {
             "id": 359,
@@ -2513,26 +2737,20 @@
         },
         "365": {
             "id": 365,
-            "name": "Roma",
-            "stars": 4.5,
+            "name": "Roma FC (AC Roma)",
+            "stars": 4,
             "league": 17
         },
         "366": {
             "id": 366,
             "name": "Sampdoria",
-            "stars": 4,
+            "stars": 3.5,
             "league": 17
         },
         "367": {
             "id": 367,
             "name": "Sassuolo",
-            "stars": 3.5,
-            "league": 17
-        },
-        "379": {
-            "id": 379,
-            "name": "SPAL",
-            "stars": 3.5,
+            "stars": 4,
             "league": 17
         },
         "368": {
@@ -2551,13 +2769,8 @@
             "id": 370,
             "name": "Ascoli",
             "stars": 2.5,
-            "league": 18
-        },
-        "373": {
-            "id": 373,
-            "name": "Benevento",
-            "stars": 3.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "371": {
             "id": 371,
@@ -2573,11 +2786,18 @@
             "league": 18,
             "deprecated": true
         },
+        "374": {
+            "id": 374,
+            "name": "Brescia",
+            "stars": 3,
+            "league": 27
+        },
         "866": {
             "id": 866,
             "name": "C. Stabia",
             "stars": 2,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "375": {
             "id": 375,
@@ -2597,43 +2817,41 @@
             "id": 377,
             "name": "Chiavari",
             "stars": 2,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "353": {
             "id": 353,
             "name": "Chievo Verona",
-            "stars": 3.5,
-            "league": 18
+            "stars": 2.5,
+            "league": 27
         },
         "378": {
             "id": 378,
             "name": "Cittadella",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "810": {
             "id": 810,
             "name": "Cosenza",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "734": {
             "id": 734,
             "name": "Cremona",
             "stars": 3,
-            "league": 18
-        },
-        "354": {
-            "id": 354,
-            "name": "Crotone",
-            "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "355": {
             "id": 355,
             "name": "Empoli",
-            "stars": 3.5,
-            "league": 18
+            "stars": 2.5,
+            "league": 27
         },
         "735": {
             "id": 735,
@@ -2646,13 +2864,8 @@
             "id": 380,
             "name": "Frosinone",
             "stars": 3.5,
-            "league": 18
-        },
-        "382": {
-            "id": 382,
-            "name": "La Spezia",
-            "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "383": {
             "id": 383,
@@ -2661,11 +2874,18 @@
             "league": 18,
             "deprecated": true
         },
+        "811": {
+            "id": 811,
+            "name": "Lecce",
+            "stars": 3,
+            "league": 27
+        },
         "812": {
             "id": 812,
             "name": "Livorno",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "384": {
             "id": 384,
@@ -2692,31 +2912,42 @@
             "id": 385,
             "name": "Perugia",
             "stars": 3,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "364": {
             "id": 364,
             "name": "Pescara",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "386": {
             "id": 386,
             "name": "Pisa",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "867": {
             "id": 867,
             "name": "Pordenone",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "387": {
             "id": 387,
             "name": "Salerno",
             "stars": 3,
-            "league": 18
+            "league": 18,
+            "deprecated": true
+        },
+        "379": {
+            "id": 379,
+            "name": "SPAL",
+            "stars": 3.5,
+            "league": 27
         },
         "388": {
             "id": 388,
@@ -2729,13 +2960,15 @@
             "id": 389,
             "name": "Trapani",
             "stars": 1.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "737": {
             "id": 737,
             "name": "Venezia",
             "stars": 2.5,
-            "league": 18
+            "league": 18,
+            "deprecated": true
         },
         "390": {
             "id": 390,
@@ -2768,7 +3001,7 @@
         "738": {
             "id": 738,
             "name": "Cerezo Osaka",
-            "stars": 2.5,
+            "stars": 3,
             "league": 19
         },
         "394": {
@@ -2793,7 +3026,8 @@
             "id": 396,
             "name": "Jubilo Iwata",
             "stars": 2,
-            "league": 19
+            "league": 19,
+            "deprecated": true
         },
         "397": {
             "id": 397,
@@ -2805,8 +3039,7 @@
             "id": 398,
             "name": "Kashiwa Reysol",
             "stars": 2.5,
-            "league": 19,
-            "deprecated": true
+            "league": 19
         },
         "399": {
             "id": 399,
@@ -2818,7 +3051,8 @@
             "id": 868,
             "name": "Matsumoto Yamaga",
             "stars": 1.5,
-            "league": 19
+            "league": 19,
+            "deprecated": true
         },
         "400": {
             "id": 400,
@@ -2829,7 +3063,7 @@
         "869": {
             "id": 869,
             "name": "Oita Trinita",
-            "stars": 1.5,
+            "stars": 2.5,
             "league": 19
         },
         "401": {
@@ -2860,13 +3094,13 @@
         "404": {
             "id": 404,
             "name": "Shonan Bellmare",
-            "stars": 1.5,
+            "stars": 2,
             "league": 19
         },
         "405": {
             "id": 405,
             "name": "Urawa Reds",
-            "stars": 3,
+            "stars": 2.5,
             "league": 19
         },
         "814": {
@@ -2892,14 +3126,26 @@
         "408": {
             "id": 408,
             "name": "Vissel Kobe",
-            "stars": 3.5,
+            "stars": 3,
             "league": 19
         },
         "409": {
             "id": 409,
             "name": "Yokohama F-M",
-            "stars": 2.5,
+            "stars": 3,
             "league": 19
+        },
+        "936": {
+            "id": 936,
+            "name": "Yokohama FC",
+            "stars": 2,
+            "league": 19
+        },
+        "937": {
+            "id": 937,
+            "name": "Busan Ipark",
+            "stars": 1.5,
+            "league": 20
         },
         "741": {
             "id": 741,
@@ -2919,30 +3165,31 @@
             "stars": 2,
             "league": 20
         },
-        "815": {
-            "id": 815,
-            "name": "Gyeongnam FC",
-            "stars": 2,
-            "league": 20
-        },
         "411": {
             "id": 411,
             "name": "GwangJu FC",
             "stars": 1.5,
+            "league": 20
+        },
+        "815": {
+            "id": 815,
+            "name": "Gyeongnam FC",
+            "stars": 2,
             "league": 20,
             "deprecated": true
         },
         "412": {
             "id": 412,
             "name": "Incheon United",
-            "stars": 1.5,
+            "stars": 2,
             "league": 20
         },
         "413": {
             "id": 413,
             "name": "Jeju United",
             "stars": 2.5,
-            "league": 20
+            "league": 20,
+            "deprecated": true
         },
         "414": {
             "id": 414,
@@ -2960,7 +3207,7 @@
         "416": {
             "id": 416,
             "name": "Pohang Steelers",
-            "stars": 2,
+            "stars": 2.5,
             "league": 20
         },
         "417": {
@@ -3028,13 +3275,13 @@
         "871": {
             "id": 871,
             "name": "FC Juarez",
-            "stars": 2.5,
+            "stars": 3,
             "league": 21
         },
         "426": {
             "id": 426,
             "name": "Guadalajara",
-            "stars": 3.5,
+            "stars": 3,
             "league": 21
         },
         "427": {
@@ -3050,17 +3297,25 @@
             "league": 21,
             "deprecated": true
         },
+        "938": {
+            "id": 938,
+            "name": "Mazatlan FC",
+            "stars": 3,
+            "league": 21
+        },
         "428": {
             "id": 428,
             "name": "Monarcas Morelia",
             "stars": 3,
-            "league": 21
+            "league": 21,
+            "deprecated": true
         },
         "429": {
             "id": 429,
             "name": "Monterrey",
             "stars": 4,
-            "league": 21
+            "league": 21,
+            "deprecated": true
         },
         "430": {
             "id": 430,
@@ -3080,10 +3335,22 @@
             "stars": 3,
             "league": 21
         },
+        "939": {
+            "id": 939,
+            "name": "Pumas",
+            "stars": 3,
+            "league": 21
+        },
         "433": {
             "id": 433,
             "name": "Queretaro",
-            "stars": 3,
+            "stars": 2,
+            "league": 21
+        },
+        "940": {
+            "id": 940,
+            "name": "Rayados",
+            "stars": 3.5,
             "league": 21
         },
         "434": {
@@ -3101,37 +3368,39 @@
         "436": {
             "id": 436,
             "name": "Tijuana",
-            "stars": 3.5,
+            "stars": 3,
             "league": 21
         },
         "437": {
             "id": 437,
             "name": "Toluca",
-            "stars": 3.5,
+            "stars": 3,
             "league": 21
         },
         "438": {
             "id": 438,
             "name": "U.N.A.M",
             "stars": 3,
-            "league": 21
+            "league": 21,
+            "deprecated": true
         },
         "439": {
             "id": 439,
             "name": "Veracruz",
             "stars": 2.5,
-            "league": 21
+            "league": 21,
+            "deprecated": true
         },
         "440": {
             "id": 440,
             "name": "ADO Den Haag",
-            "stars": 2.5,
+            "stars": 2,
             "league": 22
         },
         "441": {
             "id": 441,
             "name": "Ajax",
-            "stars": 4.5,
+            "stars": 4,
             "league": 22
         },
         "442": {
@@ -3157,7 +3426,7 @@
         "817": {
             "id": 817,
             "name": "FC Emmen",
-            "stars": 2,
+            "stars": 2.5,
             "league": 22
         },
         "444": {
@@ -3169,7 +3438,7 @@
         "445": {
             "id": 445,
             "name": "FC Twente",
-            "stars": 3,
+            "stars": 2.5,
             "league": 22
         },
         "446": {
@@ -3181,13 +3450,13 @@
         "447": {
             "id": 447,
             "name": "Feyenoord",
-            "stars": 3.5,
+            "stars": 4,
             "league": 22
         },
         "818": {
             "id": 818,
             "name": "Fortuna Sittard",
-            "stars": 2,
+            "stars": 2.5,
             "league": 22
         },
         "448": {
@@ -3200,7 +3469,7 @@
         "449": {
             "id": 449,
             "name": "Heracles Almelo",
-            "stars": 2.5,
+            "stars": 2,
             "league": 22
         },
         "450": {
@@ -3232,7 +3501,7 @@
         "872": {
             "id": 872,
             "name": "RKC Waalwijk",
-            "stars": 1.5,
+            "stars": 2,
             "league": 22
         },
         "453": {
@@ -3245,13 +3514,13 @@
         "454": {
             "id": 454,
             "name": "SC Heerenveen",
-            "stars": 2,
+            "stars": 2.5,
             "league": 22
         },
         "455": {
             "id": 455,
             "name": "Sparta Rotterdam",
-            "stars": 2,
+            "stars": 2.5,
             "league": 22
         },
         "456": {
@@ -3269,20 +3538,19 @@
         "457": {
             "id": 457,
             "name": "Willem ||",
-            "stars": 2.5,
+            "stars": 3,
             "league": 22
         },
         "458": {
             "id": 458,
             "name": "Aalesunds FK",
-            "stars": 2,
-            "league": 23,
-            "deprecated": true
+            "stars": 1,
+            "league": 23
         },
         "459": {
             "id": 459,
             "name": "FK Bodo/Glimt",
-            "stars": 1.5,
+            "stars": 2.5,
             "league": 23
         },
         "460": {
@@ -3295,25 +3563,25 @@
             "id": 461,
             "name": "IK Start",
             "stars": 1.5,
-            "league": 23,
-            "deprecated": true
+            "league": 23
         },
         "746": {
             "id": 746,
             "name": "Kristiansund",
-            "stars": 1.5,
+            "stars": 2,
             "league": 23
         },
         "462": {
             "id": 462,
             "name": "Lillestrom SK",
             "stars": 1.5,
-            "league": 23
+            "league": 23,
+            "deprecated": true
         },
         "873": {
             "id": 873,
             "name": "Mjondalen IF",
-            "stars": 1,
+            "stars": 1.5,
             "league": 23
         },
         "463": {
@@ -3332,7 +3600,8 @@
             "id": 819,
             "name": "Ranheim Fotball",
             "stars": 1,
-            "league": 23
+            "league": 23,
+            "deprecated": true
         },
         "465": {
             "id": 465,
@@ -3344,19 +3613,18 @@
             "id": 747,
             "name": "Sandefjord",
             "stars": 1.5,
-            "league": 23,
-            "deprecated": true
+            "league": 23
         },
         "466": {
             "id": 466,
-            "name": "Sarpsborg 08 FF",
+            "name": "Sarpsborg 08",
             "stars": 2,
             "league": 23
         },
         "467": {
             "id": 467,
             "name": "SK Brann",
-            "stars": 2.5,
+            "stars": 2,
             "league": 23
         },
         "468": {
@@ -3369,7 +3637,7 @@
         "469": {
             "id": 469,
             "name": "Stabaek Fotball",
-            "stars": 1.5,
+            "stars": 2,
             "league": 23
         },
         "470": {
@@ -3382,7 +3650,8 @@
             "id": 471,
             "name": "Tromso IL",
             "stars": 1.5,
-            "league": 23
+            "league": 23,
+            "deprecated": true
         },
         "472": {
             "id": 472,
@@ -3393,19 +3662,20 @@
         "473": {
             "id": 473,
             "name": "Viking FK",
-            "stars": 1.5,
+            "stars": 2,
             "league": 23
         },
         "474": {
             "id": 474,
             "name": "Arka Gdynia",
             "stars": 2,
-            "league": 24
+            "league": 24,
+            "deprecated": true
         },
         "475": {
             "id": 475,
             "name": "Cracovia",
-            "stars": 2.5,
+            "stars": 2,
             "league": 24
         },
         "476": {
@@ -3431,12 +3701,13 @@
             "id": 478,
             "name": "Korona Kielce",
             "stars": 2,
-            "league": 24
+            "league": 24,
+            "deprecated": true
         },
         "479": {
             "id": 479,
             "name": "Lech Poznan",
-            "stars": 2.5,
+            "stars": 3,
             "league": 24
         },
         "480": {
@@ -3455,7 +3726,8 @@
             "id": 874,
             "name": "LKS Lodz",
             "stars": 1,
-            "league": 24
+            "league": 24,
+            "deprecated": true
         },
         "820": {
             "id": 820,
@@ -3464,10 +3736,22 @@
             "league": 24,
             "deprecated": true
         },
+        "941": {
+            "id": 941,
+            "name": "PGE Stal Mielec",
+            "stars": 1.5,
+            "league": 24
+        },
         "482": {
             "id": 482,
             "name": "Piast Gliwice",
             "stars": 2,
+            "league": 24
+        },
+        "942": {
+            "id": 942,
+            "name": "Podbeskidzie",
+            "stars": 1,
             "league": 24
         },
         "483": {
@@ -3479,7 +3763,7 @@
         "875": {
             "id": 875,
             "name": "Rakow Czestochowa",
-            "stars": 1.5,
+            "stars": 2,
             "league": 24
         },
         "484": {
@@ -3509,10 +3793,16 @@
             "league": 24,
             "deprecated": true
         },
+        "943": {
+            "id": 943,
+            "name": "Warta Poznan",
+            "stars": 1,
+            "league": 24
+        },
         "487": {
             "id": 487,
             "name": "Wisla Krakow",
-            "stars": 2,
+            "stars": 2.5,
             "league": 24
         },
         "488": {
@@ -3544,7 +3834,7 @@
         "491": {
             "id": 491,
             "name": "Belenenses",
-            "stars": 3,
+            "stars": 2.5,
             "league": 25
         },
         "492": {
@@ -3570,7 +3860,8 @@
             "id": 823,
             "name": "Desportivo Aves",
             "stars": 2.5,
-            "league": 25
+            "league": 25,
+            "deprecated": true
         },
         "494": {
             "id": 494,
@@ -3586,24 +3877,23 @@
             "league": 25,
             "deprecated": true
         },
+        "944": {
+            "id": 944,
+            "name": "Farense",
+            "stars": 2.5,
+            "league": 25
+        },
         "876": {
             "id": 876,
             "name": "FC Famalicao",
-            "stars": 3,
+            "stars": 2.5,
             "league": 25
         },
         "496": {
             "id": 496,
             "name": "FC Porto",
-            "stars": 4.5,
+            "stars": 4,
             "league": 25
-        },
-        "499": {
-            "id": 499,
-            "name": "Funchal (CD Nacional)",
-            "stars": 3.5,
-            "league": 25,
-            "deprecated": true
         },
         "493": {
             "id": 493,
@@ -3626,14 +3916,20 @@
         },
         "498": {
             "id": 498,
-            "name": "Moreirense",
-            "stars": 3.5,
+            "name": "Moreirense FC",
+            "stars": 3,
+            "league": 25
+        },
+        "499": {
+            "id": 499,
+            "name": "Nacional",
+            "stars": 3,
             "league": 25
         },
         "500": {
             "id": 500,
             "name": "Pacos Ferreira",
-            "stars": 2.5,
+            "stars": 3,
             "league": 25
         },
         "750": {
@@ -3646,7 +3942,7 @@
         "824": {
             "id": 824,
             "name": "Portimonense SC",
-            "stars": 3.5,
+            "stars": 3,
             "league": 25
         },
         "501": {
@@ -3658,7 +3954,7 @@
         "825": {
             "id": 825,
             "name": "Santa Clara",
-            "stars": 3.5,
+            "stars": 3,
             "league": 25
         },
         "502": {
@@ -3689,7 +3985,8 @@
             "id": 507,
             "name": "V. Setubal",
             "stars": 3,
-            "league": 25
+            "league": 25,
+            "deprecated": true
         },
         "751": {
             "id": 751,
@@ -3714,7 +4011,7 @@
         "510": {
             "id": 510,
             "name": "Cork City",
-            "stars": 1,
+            "stars": 0.5,
             "league": 26
         },
         "511": {
@@ -3766,7 +4063,13 @@
         "516": {
             "id": 516,
             "name": "Shamrock Rovers",
-            "stars": 1,
+            "stars": 1.5,
+            "league": 26
+        },
+        "945": {
+            "id": 945,
+            "name": "Shelbourne",
+            "stars": 0.5,
             "league": 26
         },
         "517": {
@@ -3778,14 +4081,15 @@
         "518": {
             "id": 518,
             "name": "St. Pats",
-            "stars": 1,
+            "stars": 0.5,
             "league": 26
         },
         "879": {
             "id": 879,
             "name": "UCD AFC",
             "stars": 0.5,
-            "league": 26
+            "league": 26,
+            "deprecated": true
         },
         "826": {
             "id": 826,
@@ -3799,6 +4103,12 @@
             "stars": 0.5,
             "league": 26,
             "deprecated": true
+        },
+        "946": {
+            "id": 946,
+            "name": "AC Monza",
+            "stars": 3,
+            "league": 27
         },
         "754": {
             "id": 754,
@@ -3866,7 +4176,7 @@
         "542": {
             "id": 542,
             "name": "Lokomotiv Moscow",
-            "stars": 4,
+            "stars": 3.5,
             "league": 27
         },
         "526": {
@@ -3884,13 +4194,13 @@
         "528": {
             "id": 528,
             "name": "Panathinaikos",
-            "stars": 3,
+            "stars": 3.5,
             "league": 27
         },
         "529": {
             "id": 529,
             "name": "PAOK",
-            "stars": 4,
+            "stars": 3.5,
             "league": 27
         },
         "530": {
@@ -3932,10 +4242,9 @@
         },
         "756": {
             "id": 756,
-            "name": "World XI",
+            "name": "Soccer Aid",
             "stars": 5,
-            "league": 27,
-            "deprecated": true
+            "league": 27
         },
         "831": {
             "id": 831,
@@ -3946,24 +4255,24 @@
         "832": {
             "id": 832,
             "name": "MLS All Stars",
-            "stars": 5,
+            "stars": 4,
             "league": 27
         },
         "881": {
             "id": 881,
-            "name": "Academica Clinceni",
+            "name": "Academica",
             "stars": 1,
             "league": 39
         },
         "882": {
             "id": 882,
             "name": "Astra Giurgiu",
-            "stars": 2,
+            "stars": 2.5,
             "league": 39
         },
         "883": {
             "id": 883,
-            "name": "CFR Cluj",
+            "name": "CFR 1907 Cluj",
             "stars": 3,
             "league": 39
         },
@@ -3977,12 +4286,13 @@
             "id": 885,
             "name": "CS U Craiova",
             "stars": 2.5,
-            "league": 39
+            "league": 39,
+            "deprecated": true
         },
-        "886": {
-            "id": 886,
-            "name": "Dinamo Bucuresti",
-            "stars": 2,
+        "947": {
+            "id": 947,
+            "name": "FC Arges",
+            "stars": 1,
             "league": 39
         },
         "887": {
@@ -3991,16 +4301,28 @@
             "stars": 2,
             "league": 39
         },
+        "886": {
+            "id": 886,
+            "name": "FC Dinamo 1948",
+            "stars": 2.5,
+            "league": 39
+        },
         "888": {
             "id": 888,
             "name": "FC Hermannstadt",
-            "stars": 1.5,
+            "stars": 2,
+            "league": 39
+        },
+        "894": {
+            "id": 894,
+            "name": "FC Viitorul",
+            "stars": 2.5,
             "league": 39
         },
         "889": {
             "id": 889,
             "name": "FC Voluntari",
-            "stars": 2,
+            "stars": 1.5,
             "league": 39
         },
         "890": {
@@ -4011,7 +4333,7 @@
         },
         "891": {
             "id": 891,
-            "name": "Gaz Metan",
+            "name": "Gaz Metan Medias",
             "stars": 2,
             "league": 39
         },
@@ -4027,10 +4349,16 @@
             "stars": 2,
             "league": 39
         },
-        "894": {
-            "id": 894,
-            "name": "Viitorul",
+        "948": {
+            "id": 948,
+            "name": "Univ. Craiova",
             "stars": 2.5,
+            "league": 39
+        },
+        "949": {
+            "id": 949,
+            "name": "UTA Arad",
+            "stars": 1.5,
             "league": 39
         },
         "757": {
@@ -4167,7 +4495,7 @@
         "548": {
             "id": 548,
             "name": "Al Ahli",
-            "stars": 3.5,
+            "stars": 3,
             "league": 29
         },
         "549": {
@@ -4192,7 +4520,7 @@
         "761": {
             "id": 761,
             "name": "Al Fayha",
-            "stars": 2,
+            "stars": 1.5,
             "league": 29
         },
         "833": {
@@ -4236,19 +4564,19 @@
         "557": {
             "id": 557,
             "name": "Al Raed",
-            "stars": 1.5,
+            "stars": 2,
             "league": 29
         },
         "558": {
             "id": 558,
             "name": "Al Shabab",
-            "stars": 2.5,
+            "stars": 3,
             "league": 29
         },
         "559": {
             "id": 559,
             "name": "Al Taawoun",
-            "stars": 2.5,
+            "stars": 2,
             "league": 29
         },
         "560": {
@@ -4266,7 +4594,7 @@
         "561": {
             "id": 561,
             "name": "Ettifaq FC",
-            "stars": 2.5,
+            "stars": 2,
             "league": 29
         },
         "762": {
@@ -4295,6 +4623,12 @@
             "league": 30,
             "deprecated": true
         },
+        "950": {
+            "id": 950,
+            "name": "Dundee United",
+            "stars": 1.5,
+            "league": 30
+        },
         "565": {
             "id": 565,
             "name": "Hamilton",
@@ -4305,12 +4639,13 @@
             "id": 566,
             "name": "Hearts",
             "stars": 3,
-            "league": 30
+            "league": 30,
+            "deprecated": true
         },
         "763": {
             "id": 763,
             "name": "Hibernian",
-            "stars": 2.5,
+            "stars": 2,
             "league": 30
         },
         "567": {
@@ -4323,13 +4658,13 @@
         "568": {
             "id": 568,
             "name": "Kilmarnock",
-            "stars": 2.5,
+            "stars": 2,
             "league": 30
         },
         "834": {
             "id": 834,
             "name": "Livingston",
-            "stars": 1.5,
+            "stars": 2,
             "league": 30
         },
         "569": {
@@ -4354,13 +4689,13 @@
         "572": {
             "id": 572,
             "name": "Ross County",
-            "stars": 1.5,
+            "stars": 1,
             "league": 30
         },
         "573": {
             "id": 573,
             "name": "St. Johnstone",
-            "stars": 2,
+            "stars": 1.5,
             "league": 30
         },
         "835": {
@@ -4384,19 +4719,25 @@
         "576": {
             "id": 576,
             "name": "CA Osasuna",
-            "stars": 3.5,
+            "stars": 4,
             "league": 31
         },
-        "577": {
-            "id": 577,
-            "name": "CD Leganes",
-            "stars": 4,
+        "595": {
+            "id": 595,
+            "name": "Cadiz CF",
+            "stars": 3.5,
             "league": 31
         },
         "579": {
             "id": 579,
             "name": "D. Alaves",
             "stars": 4,
+            "league": 31
+        },
+        "602": {
+            "id": 602,
+            "name": "Elche CF",
+            "stars": 3.5,
             "league": 31
         },
         "580": {
@@ -4414,7 +4755,7 @@
         "581": {
             "id": 581,
             "name": "Granada CF",
-            "stars": 3.5,
+            "stars": 4,
             "league": 31
         },
         "605": {
@@ -4435,22 +4776,10 @@
             "stars": 4,
             "league": 31
         },
-        "584": {
-            "id": 584,
-            "name": "RCD Espanyol",
-            "stars": 4,
-            "league": 31
-        },
-        "608": {
-            "id": 608,
-            "name": "RCD Mallorca",
-            "stars": 3.5,
-            "league": 31
-        },
         "585": {
             "id": 585,
             "name": "Real Betis",
-            "stars": 4.5,
+            "stars": 4,
             "league": 31
         },
         "586": {
@@ -4462,13 +4791,19 @@
         "587": {
             "id": 587,
             "name": "Real Sociedad",
-            "stars": 4,
+            "stars": 4.5,
             "league": 31
         },
         "588": {
             "id": 588,
             "name": "SD Eibar",
             "stars": 4,
+            "league": 31
+        },
+        "612": {
+            "id": 612,
+            "name": "SD Huesca",
+            "stars": 3.5,
             "league": 31
         },
         "589": {
@@ -4480,32 +4815,38 @@
         "592": {
             "id": 592,
             "name": "Valencia CF",
-            "stars": 4.5,
+            "stars": 4,
             "league": 31
         },
         "593": {
             "id": 593,
             "name": "Villarreal CF",
-            "stars": 4,
+            "stars": 4.5,
             "league": 31
         },
         "594": {
             "id": 594,
             "name": "AD Alcorcon",
-            "stars": 3,
+            "stars": 2.5,
             "league": 32
         },
         "764": {
             "id": 764,
             "name": "Albacete BP",
-            "stars": 3,
+            "stars": 2.5,
             "league": 32
         },
-        "595": {
-            "id": 595,
-            "name": "Cadiz CF",
-            "stars": 3.5,
+        "951": {
+            "id": 951,
+            "name": "CD Castellon",
+            "stars": 2,
             "league": 32
+        },
+        "577": {
+            "id": 577,
+            "name": "CD Leganes",
+            "stars": 3.5,
+            "league": 31
         },
         "596": {
             "id": 596,
@@ -4523,7 +4864,8 @@
             "id": 598,
             "name": "CD Numancia",
             "stars": 2.5,
-            "league": 32
+            "league": 32,
+            "deprecated": true
         },
         "599": {
             "id": 599,
@@ -4531,10 +4873,22 @@
             "stars": 3,
             "league": 32
         },
+        "952": {
+            "id": 952,
+            "name": "CE Sabadell",
+            "stars": 2,
+            "league": 32
+        },
         "898": {
             "id": 898,
             "name": "CF Fuenlabrada",
-            "stars": 2,
+            "stars": 2.5,
+            "league": 32
+        },
+        "953": {
+            "id": 953,
+            "name": "FC Cartagena",
+            "stars": 2.5,
             "league": 32
         },
         "836": {
@@ -4565,17 +4919,12 @@
             "league": 32,
             "deprecated": true
         },
-        "602": {
-            "id": 602,
-            "name": "Elche CF",
-            "stars": 3,
-            "league": 32
-        },
         "837": {
             "id": 837,
             "name": "Extremadura UD",
             "stars": 2.5,
-            "league": 32
+            "league": 32,
+            "deprecated": true
         },
         "766": {
             "id": 766,
@@ -4593,7 +4942,7 @@
         "582": {
             "id": 582,
             "name": "Malaga CF",
-            "stars": 3.5,
+            "stars": 2.5,
             "league": 32
         },
         "767": {
@@ -4613,7 +4962,7 @@
         "609": {
             "id": 609,
             "name": "R. Oviedo",
-            "stars": 3.5,
+            "stars": 3,
             "league": 32
         },
         "590": {
@@ -4632,30 +4981,38 @@
             "id": 899,
             "name": "Racing",
             "stars": 2.5,
-            "league": 32
+            "league": 32,
+            "deprecated": true
         },
         "607": {
             "id": 607,
             "name": "Rayo Vallecano",
-            "stars": 3.5,
+            "stars": 3,
             "league": 32
         },
         "583": {
             "id": 583,
             "name": "RC Deportivo",
             "stars": 3.5,
+            "league": 32,
+            "deprecated": true
+        },
+        "584": {
+            "id": 584,
+            "name": "RCD Espanyol",
+            "stars": 4,
             "league": 32
         },
-        "612": {
-            "id": 612,
-            "name": "SD Huesca",
+        "608": {
+            "id": 608,
+            "name": "RCD Mallorca",
             "stars": 3.5,
             "league": 32
         },
         "900": {
             "id": 900,
             "name": "SD Ponferradina",
-            "stars": 2,
+            "stars": 2.5,
             "league": 32
         },
         "613": {
@@ -4675,7 +5032,7 @@
         "615": {
             "id": 615,
             "name": "UD Almeria",
-            "stars": 2.5,
+            "stars": 3.5,
             "league": 32
         },
         "591": {
@@ -4684,16 +5041,23 @@
             "stars": 3,
             "league": 32
         },
+        "954": {
+            "id": 954,
+            "name": "UD Logrones",
+            "stars": 2.5,
+            "league": 32
+        },
         "768": {
             "id": 768,
             "name": "AFC Eskilstuna",
             "stars": 1,
-            "league": 33
+            "league": 33,
+            "deprecated": true
         },
         "616": {
             "id": 616,
             "name": "AIK",
-            "stars": 3,
+            "stars": 2.5,
             "league": 33
         },
         "617": {
@@ -4739,7 +5103,8 @@
             "id": 621,
             "name": "GIF Sundsvall",
             "stars": 2,
-            "league": 33
+            "league": 33,
+            "deprecated": true
         },
         "769": {
             "id": 769,
@@ -4769,7 +5134,7 @@
         "625": {
             "id": 625,
             "name": "IFK Goteborg",
-            "stars": 2,
+            "stars": 2.5,
             "league": 33
         },
         "626": {
@@ -4781,7 +5146,7 @@
         "770": {
             "id": 770,
             "name": "IK Sirius",
-            "stars": 2,
+            "stars": 1.5,
             "league": 33
         },
         "627": {
@@ -4803,6 +5168,12 @@
             "stars": 3,
             "league": 33
         },
+        "955": {
+            "id": 955,
+            "name": "Mjallby AIF",
+            "stars": 1,
+            "league": 33
+        },
         "630": {
             "id": 630,
             "name": "Orebro SK",
@@ -4821,6 +5192,12 @@
             "stars": 1,
             "league": 33,
             "deprecated": true
+        },
+        "956": {
+            "id": 956,
+            "name": "Varbergs Bois",
+            "stars": 1,
+            "league": 33
         },
         "632": {
             "id": 632,
@@ -4844,39 +5221,39 @@
         "635": {
             "id": 635,
             "name": "FC Lugano",
-            "stars": 2.5,
+            "stars": 2,
             "league": 34
         },
         "636": {
             "id": 636,
             "name": "FC Luzern",
-            "stars": 2,
+            "stars": 2.5,
             "league": 34
         },
         "637": {
             "id": 637,
             "name": "FC Sion",
-            "stars": 2.5,
+            "stars": 2,
             "league": 34
         },
         "638": {
             "id": 638,
             "name": "FC St. Gallen",
-            "stars": 1.5,
+            "stars": 2,
             "league": 34
         },
         "639": {
             "id": 639,
             "name": "FC Thun",
             "stars": 1.5,
-            "league": 34
+            "league": 34,
+            "deprecated": true
         },
         "640": {
             "id": 640,
             "name": "FC Vaduz",
-            "stars": 2,
-            "league": 34,
-            "deprecated": true
+            "stars": 1,
+            "league": 34
         },
         "771": {
             "id": 771,
@@ -4891,16 +5268,23 @@
             "league": 34,
             "deprecated": true
         },
+        "957": {
+            "id": 957,
+            "name": "Lausanne-Sport",
+            "stars": 1.5,
+            "league": 34
+        },
         "841": {
             "id": 841,
             "name": "Neuchatel Xamax",
             "stars": 1,
-            "league": 34
+            "league": 34,
+            "deprecated": true
         },
         "901": {
             "id": 901,
             "name": "Servette FC",
-            "stars": 1.5,
+            "stars": 2,
             "league": 34
         },
         "642": {
@@ -4926,7 +5310,7 @@
         "645": {
             "id": 645,
             "name": "Antalyaspor",
-            "stars": 3,
+            "stars": 3.5,
             "league": 35
         },
         "646": {
@@ -4939,8 +5323,7 @@
             "id": 842,
             "name": "BB Erzurumspor",
             "stars": 2.5,
-            "league": 35,
-            "deprecated": true
+            "league": 35
         },
         "647": {
             "id": 647,
@@ -4958,7 +5341,7 @@
         "649": {
             "id": 649,
             "name": "Caykur Rizespor",
-            "stars": 3,
+            "stars": 3.5,
             "league": 35
         },
         "902": {
@@ -4988,7 +5371,7 @@
         },
         "903": {
             "id": 903,
-            "name": "Gazisehir Gaziantep",
+            "name": "Gaziantep",
             "stars": 3,
             "league": 35
         },
@@ -5001,7 +5384,13 @@
         "772": {
             "id": 772,
             "name": "Goztepe",
-            "stars": 3.5,
+            "stars": 3,
+            "league": 35
+        },
+        "958": {
+            "id": 958,
+            "name": "Hatayspor",
+            "stars": 2.5,
             "league": 35
         },
         "654": {
@@ -5010,6 +5399,12 @@
             "stars": 3,
             "league": 35,
             "deprecated": true
+        },
+        "959": {
+            "id": 959,
+            "name": "Karagumruk SK",
+            "stars": 3,
+            "league": 35
         },
         "655": {
             "id": 655,
@@ -5026,7 +5421,7 @@
         "657": {
             "id": 657,
             "name": "Konyaspor",
-            "stars": 3.5,
+            "stars": 3,
             "league": 35
         },
         "843": {
@@ -5045,7 +5440,7 @@
         "773": {
             "id": 773,
             "name": "Sivasspor",
-            "stars": 3,
+            "stars": 3.5,
             "league": 35
         },
         "659": {
@@ -5057,13 +5452,13 @@
         "774": {
             "id": 774,
             "name": "Yeni Malatyaspor",
-            "stars": 3,
+            "stars": 3.5,
             "league": 35
         },
         "775": {
             "id": 775,
             "name": "Atlanta United",
-            "stars": 3.5,
+            "stars": 3,
             "league": 36
         },
         "660": {
@@ -5081,13 +5476,13 @@
         "662": {
             "id": 662,
             "name": "Columbus Crew SC",
-            "stars": 3,
+            "stars": 3.5,
             "league": 36
         },
         "663": {
             "id": 663,
             "name": "D.C. United",
-            "stars": 3.5,
+            "stars": 3,
             "league": 36
         },
         "904": {
@@ -5105,19 +5500,25 @@
         "665": {
             "id": 665,
             "name": "Houston Dynamo",
-            "stars": 3,
+            "stars": 2.5,
             "league": 36
         },
         "667": {
             "id": 667,
             "name": "Impact Montreal",
-            "stars": 3,
+            "stars": 2.5,
+            "league": 36
+        },
+        "960": {
+            "id": 960,
+            "name": "Inter Miami CF",
+            "stars": 3.5,
             "league": 36
         },
         "666": {
             "id": 666,
             "name": "LA Galaxy",
-            "stars": 3.5,
+            "stars": 3,
             "league": 36
         },
         "844": {
@@ -5130,6 +5531,12 @@
             "id": 776,
             "name": "Minnesota United",
             "stars": 3,
+            "league": 36
+        },
+        "961": {
+            "id": 961,
+            "name": "Nashville SC",
+            "stars": 2.5,
             "league": 36
         },
         "668": {
@@ -5147,7 +5554,7 @@
         "669": {
             "id": 669,
             "name": "NY Red Bulls",
-            "stars": 3.5,
+            "stars": 3,
             "league": 36
         },
         "671": {
@@ -5165,13 +5572,13 @@
         "673": {
             "id": 673,
             "name": "Portland Timbers",
-            "stars": 3,
+            "stars": 3.5,
             "league": 36
         },
         "674": {
             "id": 674,
             "name": "Real Salt Lake",
-            "stars": 3,
+            "stars": 2.5,
             "league": 36
         },
         "676": {
@@ -5183,13 +5590,13 @@
         "675": {
             "id": 675,
             "name": "SJ Earthquakes",
-            "stars": 3,
+            "stars": 2.5,
             "league": 36
         },
         "677": {
             "id": 677,
             "name": "Sporting KC",
-            "stars": 3.5,
+            "stars": 3,
             "league": 36
         },
         "678": {
@@ -5201,7 +5608,7 @@
         "679": {
             "id": 679,
             "name": "Whitecaps FC",
-            "stars": 3,
+            "stars": 2.5,
             "league": 36
         }
     }

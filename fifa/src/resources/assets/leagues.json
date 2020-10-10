@@ -1,15 +1,15 @@
 {
-    "last_update": "30-Sep-2017 11:57",
+    "last_update": "10-10-20 10:33",
     "leagues": {
         "1": {
             "id": 1,
             "country": 1,
-            "name": "SAF"
+            "name": "LPF"
         },
         "2": {
             "id": 2,
             "country": 2,
-            "name": "Hyundai A-League"
+            "name": "A-League"
         },
         "3": {
             "id": 3,
@@ -19,7 +19,7 @@
         "4": {
             "id": 4,
             "country": 4,
-            "name": "Pro League"
+            "name": "1A Pro League"
         },
         "5": {
             "id": 5,
@@ -29,7 +29,8 @@
         "6": {
             "id": 6,
             "country": 6,
-            "name": "Camp. AFP Planvital"
+            "name": "Camp. AFP Planvital",
+            "deprecated": true
         },
         "38": {
             "id": 38,
@@ -39,7 +40,13 @@
         "7": {
             "id": 7,
             "country": 7,
-            "name": "Liga Dimayor"
+            "name": "Liga Dimayor",
+            "deprecated": true
+        },
+        "40": {
+            "id": 40,
+            "country": 54,
+            "name": "Libertadores"
         },
         "8": {
             "id": 8,
@@ -69,12 +76,12 @@
         "13": {
             "id": 13,
             "country": 10,
-            "name": "Ligue 1 Conforama"
+            "name": "Ligue 1 Uber Eats"
         },
         "14": {
             "id": 14,
             "country": 10,
-            "name": "Domino's Ligue 2"
+            "name": "Ligue 2 BKT"
         },
         "15": {
             "id": 15,
@@ -99,7 +106,8 @@
         "18": {
             "id": 18,
             "country": 12,
-            "name": "Calcio B"
+            "name": "Calcio B",
+            "deprecated": true
         },
         "19": {
             "id": 19,
@@ -109,7 +117,7 @@
         "20": {
             "id": 20,
             "country": 14,
-            "name": "K-League 1"
+            "name": "K League 1"
         },
         "21": {
             "id": 21,
@@ -160,7 +168,7 @@
         "29": {
             "id": 29,
             "country": 23,
-            "name": "Saudi Pro League"
+            "name": "MBS Pro League"
         },
         "30": {
             "id": 30,
@@ -175,7 +183,7 @@
         "32": {
             "id": 32,
             "country": 25,
-            "name": "LaLiga Smartank"
+            "name": "LaLiga Smartbank"
         },
         "33": {
             "id": 33,
