@@ -23,10 +23,10 @@ export default class Games extends Component {
         this.player2 = new Player(player2);
     }
 
-    drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars) {
+    drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, useOnce, allowAllStars) {
         this.teams = Utils.filterTeams(teamsType, teamsLevel, allowAllStars);
 
-        if (this.teams.length < 2) {
+        if (!this.canDrawGames(useOnce, numberOfGames)) {
             this.onDrawGamesFailure();
 
             return;
@@ -38,7 +38,7 @@ export default class Games extends Component {
             do {
                 team1Index = Utils.drawNumber(0, this.teams.length);
                 team2Index = Utils.drawNumber(0, this.teams.length);
-            } while (this.isGameInvalid(team1Index, team2Index, compareLevels, compareTypes));
+            } while (this.isGameInvalid(team1Index, team2Index, compareLevels, compareTypes, useOnce));
 
             this.games.push({
                 id: i,
@@ -49,6 +49,14 @@ export default class Games extends Component {
         }
     }
 
+    canDrawGames(useOnce, numberOfGames) {
+        if (useOnce === 'no') {
+            return this.teams.length >= 2;
+        }
+
+        return this.teams.length >= numberOfGames * 2;
+    }
+
     onDrawGamesFailure() {
         setTimeout(() => {
             window.alert('Error: There are not at least two teams matching your settings');
@@ -56,14 +64,14 @@ export default class Games extends Component {
         }, 0);
     }
 
-    isGameInvalid(team1Index, team2Index, compareLevels, compareTypes) {
+    isGameInvalid(team1Index, team2Index, compareLevels, compareTypes, useOnce) {
         if (team1Index === team2Index) {
             return true;
         }
 
         let team1 = this.teams[team1Index], team2 = this.teams[team2Index];
 
-        return this.areLevelsInvalid(compareLevels, team1, team2) || this.areTypesInvalid(compareTypes, team1, team2);
+        return this.areLevelsInvalid(compareLevels, team1, team2) || this.areTypesInvalid(compareTypes, team1, team2) || this.hasTeamBeenUsed(useOnce, team1) || this.hasTeamBeenUsed(useOnce, team2);
     }
 
     areLevelsInvalid(compareLevels, team1, team2) {
@@ -72,6 +80,20 @@ export default class Games extends Component {
 
     areTypesInvalid(compareTypes, team1, team2) {
         return compareTypes === 'yes' && team1.type !== team2.type;
+    }
+
+    hasTeamBeenUsed(useOnce, team) {
+        if (useOnce !== 'yes') {
+            return false;
+        }
+
+        for (var i = 0; i < this.games.length; i++) {
+            if (this.games[i].team1.id === team.id || this.games[i].team2.id === team.id) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     onAllGamesSubmit() {
@@ -103,8 +125,8 @@ export default class Games extends Component {
         }
     }
 
-    renderGames({ numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars }) {
-        this.drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, allowAllStars);
+    renderGames({ numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, useOnce, allowAllStars }) {
+        this.drawGames(numberOfGames, teamsType, teamsLevel, compareLevels, compareTypes, useOnce, allowAllStars);
 
         return this.games.map(game => {
             return <Game key={ game.id } game={ game } player1={ this.player1 } player2={ this.player2 } onGameSubmit={ this.onGameSubmit.bind(this) } ref={ game => this.gameRefs.push(game) } />;

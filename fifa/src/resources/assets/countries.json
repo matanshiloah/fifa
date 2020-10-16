@@ -1,5 +1,5 @@
 {
-    "last_update": "10-10-2020 10:33",
+    "last_update": "16-10-2020 07:07",
     "countries": {
         "1": {
             "id": 1,
@@ -16,7 +16,7 @@
             "name": "Australia",
             "national_teams": {
                 "men": {
-                    "id": 304,
+                    "id": 962,
                     "stars": 3.5
                 },
                 "women": {
@@ -453,7 +453,7 @@
             "name": "Saudi Arabia",
             "national_teams":{
                 "men": {
-                    "id": 696,
+                    "id": 963,
                     "stars": 3.5,
                     "deprecated": true
                 }
@@ -580,7 +580,7 @@
             "name": "Wales",
             "national_teams": {
                 "men": {
-                    "id": 350,
+                    "id": 964,
                     "stars": 3.5
                 }
             }

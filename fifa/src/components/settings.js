@@ -15,6 +15,7 @@ export default class Settings extends Component {
         this.buildTeamsLevelValues();
         this.buildCompareTypesValues();
         this.buildCompareLevelsValues();
+        this.buildUseOnceValues();
         this.buildAllowAllStarsValues();
     }
 
@@ -27,6 +28,7 @@ export default class Settings extends Component {
             teamsLevel: { 5: true },
             compareTypes: 'yes',
             compareLevels: 'yes',
+            useOnce: 'yes',
             allowAllStars: 'yes'
         };
     }
@@ -77,6 +79,13 @@ export default class Settings extends Component {
         ];
     }
 
+    buildUseOnceValues() {
+        this.useOnceValues = [
+            { value: 'yes', label: 'Yes' },
+            { value: 'no', label: 'No' }
+        ];
+    }
+
     buildAllowAllStarsValues() {
         this.allowAllStarsValues = [
             { value: 'yes', label: 'Yes' },
@@ -93,6 +102,7 @@ export default class Settings extends Component {
             teamsLevel: this.teamsLevel.getValue(),
             compareTypes: this.compareTypes.getValue(),
             compareLevels: this.compareLevels.getValue(),
+            useOnce: this.useOnce.getValue(),
             allowAllStars: this.allowAllStars.getValue()
         });
     }
@@ -107,6 +117,7 @@ export default class Settings extends Component {
                 <Input type='checkbox' values={ this.teamsLevelValues } label='Teams level' defaultValue={ this.defaults.teamsLevel } ref={ teamsLevel => this.teamsLevel = teamsLevel } />
                 <Input type='radio' values={ this.compareTypesValues } label='Compare types' defaultValue={ this.defaults.compareTypes } ref={ compareTypes => this.compareTypes = compareTypes } />
                 <Input type='radio' values={ this.compareLevelsValues } label='Compare levels' defaultValue={ this.defaults.compareLevels } ref={ compareLevels => this.compareLevels = compareLevels } />
+                <Input type='radio' values={ this.useOnceValues } label='Use team once' defaultValue={ this.defaults.useOnce } ref={ useOnce => this.useOnce = useOnce } />
                 <Input type='radio' values={ this.allowAllStarsValues } label='Allow all stars' defaultValue={ this.defaults.allowAllStars } ref={ allowAllStars => this.allowAllStars = allowAllStars } />
                 <button className='settings--submit' onClick={ this.onSubmit.bind(this) }>Draw games</button>
             </div>
