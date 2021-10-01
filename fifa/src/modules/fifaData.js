@@ -10,8 +10,16 @@ module.exports = class FifaData {
             this.buildData();
             instance = this;
         }
-
+        
+        this.logRawData();
+        
         return instance;
+    }
+
+    logRawData() {
+        console.log(clubsData);
+        console.log(leaguesData);
+        console.log(countriesData);
     }
 
     initializeCache() {

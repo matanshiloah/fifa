@@ -48,6 +48,11 @@
             "country": 54,
             "name": "Libertadores"
         },
+        "41": {
+            "id": 41,
+            "country": 55,
+            "name": "Sudamericana"
+        },
         "8": {
             "id": 8,
             "country": 8,
@@ -98,6 +103,11 @@
             "country": 11,
             "name": "3. Liga"
         },
+        "42": {
+            "id": 42,
+            "country": 42,
+            "name": "Hero ISL"
+        },
         "17": {
             "id": 17,
             "country": 12,
@@ -142,12 +152,12 @@
         "25": {
             "id": 25,
             "country": 19,
-            "name": "Liga NOS"
+            "name": "Liga Portugal"
         },
         "26": {
             "id": 26,
             "country": 20,
-            "name": "SSE Airtricity Lge"
+            "name": "SSE Airtricity PD"
         },
         "27": {
             "id": 27,
@@ -157,7 +167,7 @@
         "39": {
             "id": 39,
             "country": 46,
-            "name": "Liga I"
+            "name": "Liga |"
         },
         "28": {
             "id": 28,
@@ -173,7 +183,7 @@
         "30": {
             "id": 30,
             "country": 24,
-            "name": "Scottish Prem"
+            "name": "Cindh Prem"
         },
         "31": {
             "id": 31,
@@ -193,7 +203,7 @@
         "34": {
             "id": 34,
             "country": 27,
-            "name": "RSL"
+            "name": "CSSL"
         },
         "35": {
             "id": 35,
